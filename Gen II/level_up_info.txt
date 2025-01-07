@@ -1,0 +1,32 @@
+Pokémon that can learn the move ember
+
+Via Level Up:
+Charmander: Lv. 7 | Lv. 7
+Charmeleon: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Charizard: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Vulpix: Lv. 1 | Lv. 1
+Ninetales: Lv. 1 | Lv. 1
+Growlithe: Lv. 9 | Lv. 9
+Ponyta: Lv. 13 | Lv. 13
+Rapidash: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Magmar: Lv. 1 | Lv. 1
+Flareon: Lv. 16 | Lv. 16
+Moltres: Lv. 1 | Lv. 1
+Cyndaquil: Lv. 12 | Lv. 12
+Quilava: Lv. 12 | Lv. 12
+Typhlosion: Lv. 1, Lv. 12 | Lv. 1, Lv. 12
+Slugma: Lv. 8 | Lv. 8
+Magcargo: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Houndour: Lv. 1 | Lv. 1
+Houndoom: Lv. 1 | Lv. 1
+Magby: Lv. 1 | Lv. 1
+Entei: Lv. 11 | Lv. 11
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE
