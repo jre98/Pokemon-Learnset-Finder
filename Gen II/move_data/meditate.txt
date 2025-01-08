@@ -1,0 +1,24 @@
+Pokémon that can learn the move Meditate
+
+Via Level Up:
+Drowzee: Lv. 36 | Lv. 36
+Hypno: Lv. 40 | Lv. 40
+Hitmonlee: Lv. 6 | Lv. 6
+Mr. Mime: Lv. 16 | Lv. 16
+
+Via TM:
+NONE
+
+Via Breeding:
+Mankey
+Primeape
+Machop
+Machoke
+Machamp
+Jynx
+Electabuzz
+Smoochum
+Elekid
+
+Via Special Event:
+NONE

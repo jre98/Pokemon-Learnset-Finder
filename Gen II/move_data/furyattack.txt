@@ -1,0 +1,29 @@
+Pokémon that can learn the move Fury Attack
+
+Via Level Up:
+Beedrill: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Spearow: Lv. 13 | Lv. 13
+Fearow: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Nidoran♂: Lv. 30 | Lv. 30
+Nidorino: Lv. 36 | Lv. 36
+Rapidash: Lv. 40 | Lv. 40
+Farfetch'd: Lv. 19 | Lv. 19
+Doduo: Lv. 13 | Lv. 13
+Dodrio: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Rhyhorn: Lv. 19 | Lv. 19
+Rhydon: Lv. 1, Lv. 19 | Lv. 1, Lv. 19
+Goldeen: Lv. 29 | Lv. 29
+Seaking: Lv. 29 | Lv. 29
+Heracross: Lv. 19 | Lv. 19
+Piloswine: Lv. 33 | Lv. 33
+Skarmory: Lv. 37 | Lv. 37
+Donphan: Lv. 25 | Lv. 25
+
+Via TM:
+NONE
+
+Via Breeding:
+Pinsir
+
+Via Special Event:
+NONE

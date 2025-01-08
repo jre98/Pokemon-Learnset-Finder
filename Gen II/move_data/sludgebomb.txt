@@ -1,0 +1,51 @@
+Pokémon that can learn the move Sludge Bomb
+
+Via Level Up:
+Grimer: Lv. 50 | Lv. 50
+Muk: Lv. 60 | Lv. 60
+
+Via TM:
+Beedrill
+Ekans
+Arbok
+Oddish
+Gloom
+Vileplume
+Paras
+Parasect
+Venonat
+Venomoth
+Diglett
+Dugtrio
+Bellsprout
+Weepinbell
+Victreebel
+Tentacool
+Tentacruel
+Grimer
+Muk
+Exeggcute
+Exeggutor
+Koffing
+Weezing
+Tangela
+Mew
+Spinarak
+Ariados
+Sunkern
+Sunflora
+Wooper
+Quagsire
+Gligar
+Snubbull
+Granbull
+Qwilfish
+Shuckle
+Houndour
+Houndoom
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

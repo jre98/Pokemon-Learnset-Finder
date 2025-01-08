@@ -1,0 +1,18 @@
+Pokémon that can learn the move SonicBoom
+
+Via Level Up:
+Magnemite: Lv. 16 | Lv. 16
+Magneton: Lv. 1, Lv. 16 | Lv. 1, Lv. 16
+Voltorb: Lv. 17 | Lv. 17
+Electrode: Lv. 1, Lv. 17 | Lv. 1, Lv. 17
+Yanma: Lv. 19 | Lv. 19
+
+Via TM:
+NONE
+
+Via Breeding:
+Spinarak
+Ariados
+
+Via Special Event:
+NONE

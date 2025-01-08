@@ -1,0 +1,34 @@
+Pokémon that can learn the move Fury Swipes
+
+Via Level Up:
+Sandshrew: Lv. 37 | Lv. 37
+Sandslash: Lv. 42 | Lv. 42
+Nidoran♀: Lv. 38 | Lv. 38
+Nidorina: Lv. 46 | Lv. 46
+Meowth: Lv. 41 | Lv. 41
+Persian: Lv. 46 | Lv. 46
+Psyduck: Lv. 40 | Lv. 40
+Golduck: Lv. 44 | Lv. 44
+Mankey: Lv. 21 | Lv. 21
+Primeape: Lv. 21 | Lv. 21
+Sentret: Lv. 17 | Lv. 17
+Furret: Lv. 18 | Lv. 18
+Spinarak: Lv. 30 | Lv. 30
+Ariados: Lv. 34 | Lv. 34
+Aipom: Lv. 19 | Lv. 19
+Sneasel: Lv. 33 | Lv. 33
+Teddiursa: Lv. 15 | Lv. 15
+Ursaring: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+Rattata
+Raticate
+Cyndaquil
+Quilava
+Typhlosion
+
+Via Special Event:
+NONE

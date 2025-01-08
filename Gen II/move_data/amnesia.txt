@@ -1,0 +1,41 @@
+Pokémon that can learn the move Amnesia
+
+Via Level Up:
+Slowpoke: Lv. 43 | Lv. 43
+Slowbro: Lv. 46 | Lv. 46
+Snorlax: Lv. 8 | Lv. 8
+Mewtwo: Lv. 77 | Lv. 77
+Sentret: Lv. 41 | Lv. 41
+Furret: Lv. 48 | Lv. 48
+Wooper: Lv. 21 | Lv. 21
+Quagsire: Lv. 23 | Lv. 23
+Slugma: Lv. 29 | Lv. 29
+Magcargo: Lv. 29 | Lv. 29
+Swinub:  | Lv. 55
+Piloswine:  | Lv. 70
+
+Via TM:
+NONE
+
+Via Breeding:
+Nidoran♂
+Nidorino
+Nidoking
+Clefairy
+Clefable
+Meowth
+Persian
+Krabby
+Kingler
+Tangela
+Cleffa
+Marill
+Azumarill
+Hoppip
+Skiploom
+Jumpluff
+Girafarig
+Corsola
+
+Via Special Event:
+NONE

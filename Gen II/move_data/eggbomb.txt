@@ -1,0 +1,15 @@
+Pokémon that can learn the move Egg Bomb
+
+Via Level Up:
+Exeggutor: Lv. 31 | Lv. 31
+Chansey: Lv. 35 | Lv. 35
+Blissey: Lv. 28 | Lv. 28
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

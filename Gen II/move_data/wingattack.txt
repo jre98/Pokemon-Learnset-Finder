@@ -1,0 +1,28 @@
+Pokémon that can learn the move Wing Attack
+
+Via Level Up:
+Charizard: Lv. 36 | Lv. 36
+Pidgey: Lv. 29 | Lv. 29
+Pidgeotto: Lv. 33 | Lv. 33
+Pidgeot: Lv. 33 | Lv. 33
+Zubat: Lv. 27 | Lv. 27
+Golbat: Lv. 30 | Lv. 30
+Scyther: Lv. 30 | Lv. 30
+Aerodactyl: Lv. 1 | Lv. 1
+Moltres: Lv. 1 | Lv. 1
+Dragonite: Lv. 55 | Lv. 55
+Crobat: Lv. 30 | Lv. 30
+Yanma:  | Lv. 37
+Mantine: Lv. 40 | Lv. 40
+
+Via TM:
+NONE
+
+Via Breeding:
+Hoothoot
+Noctowl
+Murkrow
+Gligar
+
+Via Special Event:
+NONE

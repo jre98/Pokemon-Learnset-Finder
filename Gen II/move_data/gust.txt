@@ -1,0 +1,24 @@
+Pokémon that can learn the move Gust
+
+Via Level Up:
+Butterfree: Lv. 28 | Lv. 28
+Pidgey: Lv. 9 | Lv. 9
+Pidgeotto: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Pidgeot: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Venomoth: Lv. 31 | Lv. 31
+Articuno: Lv. 1 | Lv. 1
+Suicune: Lv. 31 | Lv. 31
+Lugia: Lv. 22 | Lv. 22
+Ho-Oh: Lv. 22 | Lv. 22
+
+Via TM:
+NONE
+
+Via Breeding:
+Zubat
+Golbat
+Farfetch'd
+Crobat
+
+Via Special Event:
+NONE

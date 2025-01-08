@@ -1,0 +1,15 @@
+Pokémon that can learn the move Spark
+
+Via Level Up:
+Chinchou: Lv. 25 | Lv. 25
+Lanturn: Lv. 25 | Lv. 25
+Raikou: Lv. 41 | Lv. 41
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

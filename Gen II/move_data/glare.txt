@@ -1,0 +1,15 @@
+Pokémon that can learn the move Glare
+
+Via Level Up:
+Ekans: Lv. 23 | Lv. 23
+Arbok: Lv. 25 | Lv. 25
+Dunsparce: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

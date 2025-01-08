@@ -1,0 +1,73 @@
+Pokémon that can learn the move Leer
+
+Via Level Up:
+Spearow: Lv. 7 | Lv. 7
+Fearow: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Ekans: Lv. 1 | Lv. 1
+Arbok: Lv. 1 | Lv. 1
+Nidoran♂: Lv. 1 | Lv. 1
+Nidorino: Lv. 1 | Lv. 1
+Mankey: Lv. 1 | Lv. 1
+Primeape: Lv. 1 | Lv. 1
+Growlithe: Lv. 18 | Lv. 18
+Arcanine: Lv. 1 | Lv. 1
+Machop: Lv. 1 | Lv. 1
+Machoke: Lv. 1 | Lv. 1
+Machamp: Lv. 1 | Lv. 1
+Farfetch'd: Lv. 13 | Lv. 13
+Shellder: Lv. 33 | Lv. 33
+Krabby: Lv. 5 | Lv. 5
+Kingler: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Cubone: Lv. 17 | Lv. 17
+Marowak: Lv. 17 | Lv. 17
+Kangaskhan: Lv. 7 | Lv. 7
+Horsea: Lv. 15 | Lv. 15
+Seadra: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Scyther: Lv. 1 | Lv. 1
+Electabuzz: Lv. 1 | Lv. 1
+Magmar: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Gyarados: Lv. 30 | Lv. 30
+Flareon: Lv. 47 | Lv. 47
+Omanyte: Lv. 31 | Lv. 31
+Omastar: Lv. 31 | Lv. 31
+Kabuto: Lv. 19 | Lv. 19
+Kabutops: Lv. 19 | Lv. 19
+Dratini: Lv. 1 | Lv. 1
+Dragonair: Lv. 1 | Lv. 1
+Dragonite: Lv. 1 | Lv. 1
+Cyndaquil: Lv. 1 | Lv. 1
+Quilava: Lv. 1 | Lv. 1
+Typhlosion: Lv. 1 | Lv. 1
+Totodile: Lv. 1 | Lv. 1
+Croconaw: Lv. 1 | Lv. 1
+Feraligatr: Lv. 1 | Lv. 1
+Natu: Lv. 1 | Lv. 1
+Xatu: Lv. 1 | Lv. 1
+Scizor: Lv. 1 | Lv. 1
+Heracross: Lv. 1 | Lv. 1
+Sneasel: Lv. 1 | Lv. 1
+Teddiursa: Lv. 1 | Lv. 1
+Ursaring: Lv. 1 | Lv. 1
+Skarmory: Lv. 1 | Lv. 1
+Houndour: Lv. 1 | Lv. 1
+Houndoom: Lv. 1 | Lv. 1
+Kingdra: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Stantler: Lv. 8 | Lv. 8
+Elekid: Lv. 1 | Lv. 1
+Magby: Lv. 7 | Lv. 7
+Raikou: Lv. 1 | Lv. 1
+Entei: Lv. 1 | Lv. 1
+Suicune: Lv. 1 | Lv. 1
+Larvitar: Lv. 1 | Lv. 1
+Pupitar: Lv. 1 | Lv. 1
+Tyranitar: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Snubbull
+Granbull
+
+Via Special Event:
+NONE

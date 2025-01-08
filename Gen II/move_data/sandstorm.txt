@@ -1,0 +1,70 @@
+Pokémon that can learn the move Sandstorm
+
+Via Level Up:
+Sandshrew: Lv. 45 | Lv. 45
+Sandslash: Lv. 52 | Lv. 52
+Onix: Lv. 36 | Lv. 36
+Steelix: Lv. 36 | Lv. 36
+Larvitar: Lv. 8 | Lv. 8
+Pupitar: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Tyranitar: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+
+Via TM:
+Charizard
+Sandshrew
+Sandslash
+Nidoqueen
+Nidoking
+Geodude
+Graveler
+Golem
+Onix
+Cubone
+Marowak
+Lickitung
+Rhyhorn
+Rhydon
+Chansey
+Kangaskhan
+Gyarados
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dragonite
+Mew
+Sudowoodo
+Wooper
+Quagsire
+Pineco
+Forretress
+Gligar
+Steelix
+Scizor
+Shuckle
+Corsola
+Skarmory
+Phanpy
+Donphan
+Miltank
+Blissey
+Raikou
+Entei
+Suicune
+Larvitar
+Pupitar
+Tyranitar
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

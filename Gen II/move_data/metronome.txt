@@ -1,0 +1,23 @@
+Pokémon that can learn the move Metronome
+
+Via Level Up:
+Clefairy: Lv. 34 | Lv. 34
+Clefable: Lv. 1 | Lv. 1
+Mew: Lv. 30 | Lv. 30
+Togepi: Lv. 7 | Lv. 7
+Togetic: Lv. 7 | Lv. 7
+
+Via TM:
+NONE
+
+Via Breeding:
+Clefairy
+Clefable
+Chansey
+Cleffa
+Snubbull
+Granbull
+Blissey
+
+Via Special Event:
+NONE

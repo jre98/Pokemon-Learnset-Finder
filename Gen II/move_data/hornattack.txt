@@ -1,0 +1,23 @@
+Pokémon that can learn the move Horn Attack
+
+Via Level Up:
+Nidoran♂: Lv. 8 | Lv. 8
+Nidorino: Lv. 8 | Lv. 8
+Nidoking: Lv. 1 | Lv. 1
+Rhyhorn: Lv. 1 | Lv. 1
+Rhydon: Lv. 1 | Lv. 1
+Goldeen: Lv. 15 | Lv. 15
+Seaking: Lv. 15 | Lv. 15
+Tauros: Lv. 13 | Lv. 13
+Heracross: Lv. 6 | Lv. 6
+Piloswine: Lv. 1 | Lv. 1
+Donphan: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

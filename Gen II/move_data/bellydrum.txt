@@ -1,0 +1,28 @@
+Pokémon that can learn the move Belly Drum
+
+Via Level Up:
+Poliwag: Lv. 37 | Lv. 37
+Poliwhirl: Lv. 43 | Lv. 43
+Snorlax: Lv. 22 | Lv. 22
+
+Via TM:
+NONE
+
+Via Breeding:
+Charmander
+Charmeleon
+Charizard
+Clefairy
+Clefable
+Slowpoke
+Slowbro
+Cubone
+Marowak
+Lickitung
+Cleffa
+Marill
+Azumarill
+Slowking
+
+Via Special Event:
+NONE

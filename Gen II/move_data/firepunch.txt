@@ -1,0 +1,67 @@
+Pokémon that can learn the move Fire Punch
+
+Via Level Up:
+Hitmonchan: Lv. 26 | Lv. 26
+Magmar: Lv. 1, Lv. 19 | Lv. 1, Lv. 19
+Magby: Lv. 19 | Lv. 19
+
+Via TM:
+Charmander
+Charmeleon
+Charizard
+Nidoqueen
+Nidoking
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Mankey
+Primeape
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Geodude
+Graveler
+Golem
+Grimer
+Muk
+Gengar
+Drowzee
+Hypno
+Cubone
+Marowak
+Hitmonchan
+Lickitung
+Rhydon
+Kangaskhan
+Mr. Mime
+Electabuzz
+Magmar
+Snorlax
+Dragonite
+Mew
+Typhlosion
+Sentret
+Furret
+Mareep
+Flaaffy
+Ampharos
+Sudowoodo
+Aipom
+Snubbull
+Granbull
+Teddiursa
+Ursaring
+Elekid
+Magby
+Miltank
+Tyranitar
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

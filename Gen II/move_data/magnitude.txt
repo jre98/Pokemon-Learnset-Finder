@@ -1,0 +1,19 @@
+Pokémon that can learn the move Magnitude
+
+Via Level Up:
+Diglett: Lv. 9 | Lv. 9
+Dugtrio: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Geodude: Lv. 16 | Lv. 16
+Graveler: Lv. 16 | Lv. 16
+Golem: Lv. 1, Lv. 16 | Lv. 1, Lv. 16
+
+Via TM:
+NONE
+
+Via Breeding:
+Lickitung
+Rhyhorn
+Rhydon
+
+Via Special Event:
+NONE

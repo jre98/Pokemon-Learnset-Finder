@@ -1,0 +1,55 @@
+Pokémon that can learn the move Supersonic
+
+Via Level Up:
+Butterfree: Lv. 18 | Lv. 18
+Zubat: Lv. 6 | Lv. 6
+Golbat: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Venonat: Lv. 9 | Lv. 9
+Venomoth: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Tentacool: Lv. 6 | Lv. 6
+Tentacruel: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Magnemite: Lv. 11 | Lv. 11
+Magneton: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Shellder: Lv. 9 | Lv. 9
+Cloyster: Lv. 1 | Lv. 1
+Lickitung: Lv. 7 | Lv. 7
+Goldeen: Lv. 10 | Lv. 10
+Seaking: Lv. 10 | Lv. 10
+Aerodactyl: Lv. 22 | Lv. 22
+Ledyba: Lv. 8 | Lv. 8
+Ledian: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Crobat: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Chinchou: Lv. 5 | Lv. 5
+Lanturn: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Yanma: Lv. 31 | Lv. 31
+Mantine: Lv. 10 | Lv. 10
+
+Via TM:
+NONE
+
+Via Breeding:
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Doduo
+Dodrio
+Omanyte
+Omastar
+Dratini
+Dragonair
+Dragonite
+Hoothoot
+Noctowl
+Chinchou
+Lanturn
+Marill
+Azumarill
+Qwilfish
+Remoraid
+Octillery
+
+Via Special Event:
+NONE

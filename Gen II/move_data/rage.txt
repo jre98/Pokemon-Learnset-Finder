@@ -1,0 +1,33 @@
+Pokémon that can learn the move Rage
+
+Via Level Up:
+Charmander: Lv. 19 | Lv. 19
+Charmeleon: Lv. 20 | Lv. 20
+Charizard: Lv. 20 | Lv. 20
+Beedrill: Lv. 25 | Lv. 25
+Primeape: Lv. 1, Lv. 28 | Lv. 1, Lv. 28
+Doduo: Lv. 25 | Lv. 25
+Dodrio: Lv. 25 | Lv. 25
+Onix: Lv. 27 | Lv. 27
+Cubone: Lv. 29 | Lv. 29
+Marowak: Lv. 32 | Lv. 32
+Kangaskhan: Lv. 31 | Lv. 31
+Tauros: Lv. 8 | Lv. 8
+Totodile: Lv. 7 | Lv. 7
+Croconaw: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Feraligatr: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Dunsparce: Lv. 1 | Lv. 1
+Steelix: Lv. 27 | Lv. 27
+Snubbull: Lv. 34 | Lv. 34
+Granbull: Lv. 38 | Lv. 38
+
+Via TM:
+NONE
+
+Via Breeding:
+Dunsparce
+Houndour
+Houndoom
+
+Via Special Event:
+NONE

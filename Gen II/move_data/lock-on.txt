@@ -1,0 +1,17 @@
+Pokémon that can learn the move Lock-On
+
+Via Level Up:
+Magnemite: Lv. 27 | Lv. 27
+Magneton: Lv. 27 | Lv. 27
+Porygon: Lv. 32 | Lv. 32
+Remoraid: Lv. 11 | Lv. 11
+Porygon2: Lv. 32 | Lv. 32
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

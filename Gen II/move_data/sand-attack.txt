@@ -1,0 +1,32 @@
+Pokémon that can learn the move Sand-Attack
+
+Via Level Up:
+Pidgey: Lv. 5 | Lv. 5
+Pidgeotto: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Pidgeot: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Sandshrew: Lv. 11 | Lv. 11
+Sandslash: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Diglett: Lv. 25 | Lv. 25
+Dugtrio: Lv. 25 | Lv. 25
+Farfetch'd: Lv. 7 | Lv. 7
+Eevee: Lv. 8 | Lv. 8
+Vaporeon: Lv. 8 | Lv. 8
+Jolteon: Lv. 8 | Lv. 8
+Flareon: Lv. 8 | Lv. 8
+Kabuto: Lv. 28 | Lv. 28
+Kabutops: Lv. 28 | Lv. 28
+Aipom: Lv. 6 | Lv. 6
+Espeon: Lv. 8 | Lv. 8
+Umbreon: Lv. 8 | Lv. 8
+Gligar: Lv. 6 | Lv. 6
+Skarmory: Lv. 13 | Lv. 13
+Stantler: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

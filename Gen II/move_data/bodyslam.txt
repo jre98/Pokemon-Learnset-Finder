@@ -1,0 +1,36 @@
+Pokémon that can learn the move Body Slam
+
+Via Level Up:
+Nidoqueen: Lv. 23 | Lv. 23
+Jigglypuff: Lv. 34 | Lv. 34
+Poliwag: Lv. 31 | Lv. 31
+Poliwhirl: Lv. 35 | Lv. 35
+Jynx: Lv. 41 | Lv. 41
+Lapras: Lv. 15 | Lv. 15
+Snorlax: Lv. 43 | Lv. 43
+Chikorita: Lv. 29 | Lv. 29
+Bayleef: Lv. 31 | Lv. 31
+Meganium: Lv. 31 | Lv. 31
+Slugma: Lv. 50 | Lv. 50
+Magcargo: Lv. 60 | Lv. 60
+Miltank: Lv. 43 | Lv. 43
+
+Via TM:
+NONE
+
+Via Breeding:
+Growlithe
+Arcanine
+Lickitung
+Mareep
+Flaaffy
+Ampharos
+Wooper
+Quagsire
+Swinub
+Piloswine
+Phanpy
+Donphan
+
+Via Special Event:
+NONE

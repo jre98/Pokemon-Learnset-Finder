@@ -1,0 +1,21 @@
+Pokémon that can learn the move Selfdestruct
+
+Via Level Up:
+Geodude: Lv. 21 | Lv. 21
+Graveler: Lv. 21 | Lv. 21
+Golem: Lv. 21 | Lv. 21
+Voltorb: Lv. 23 | Lv. 23
+Electrode: Lv. 1, Lv. 23 | Lv. 1, Lv. 23
+Koffing: Lv. 17 | Lv. 17
+Weezing: Lv. 1, Lv. 17 | Lv. 1, Lv. 17
+Pineco: Lv. 8 | Lv. 8
+Forretress: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+
+Via TM:
+NONE
+
+Via Breeding:
+Sudowoodo
+
+Via Special Event:
+NONE

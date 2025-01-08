@@ -1,0 +1,28 @@
+Pokémon that can learn the move Stun Spore
+
+Via Level Up:
+Butterfree: Lv. 14 | Lv. 14
+Oddish: Lv. 16 | Lv. 16
+Gloom: Lv. 16 | Lv. 16
+Vileplume: Lv. 1 | Lv. 1
+Paras: Lv. 7 | Lv. 7
+Parasect: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Venonat: Lv. 28 | Lv. 28
+Venomoth: Lv. 28 | Lv. 28
+Bellsprout: Lv. 19 | Lv. 19
+Weepinbell: Lv. 19 | Lv. 19
+Exeggcute: Lv. 25 | Lv. 25
+Tangela: Lv. 34 | Lv. 34
+Bellossom: Lv. 1 | Lv. 1
+Hoppip: Lv. 15 | Lv. 15
+Skiploom: Lv. 15 | Lv. 15
+Jumpluff: Lv. 15 | Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

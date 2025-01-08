@@ -1,0 +1,39 @@
+Pokémon that can learn the move Charm
+
+Via Level Up:
+Pichu: Lv. 1 | Lv. 1
+Cleffa: Lv. 1 | Lv. 1
+Igglybuff: Lv. 1 | Lv. 1
+Togepi: Lv. 1 | Lv. 1
+Togetic: Lv. 1 | Lv. 1
+Snubbull: Lv. 8 | Lv. 8
+Granbull: Lv. 8 | Lv. 8
+
+Via TM:
+NONE
+
+Via Breeding:
+Bulbasaur
+Ivysaur
+Venusaur
+Nidoran♀
+Nidorina
+Nidoqueen
+Oddish
+Gloom
+Vileplume
+Meowth
+Persian
+Ponyta
+Rapidash
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Snorlax
+Bellossom
+Espeon
+Umbreon
+
+Via Special Event:
+NONE

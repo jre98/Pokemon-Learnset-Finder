@@ -1,0 +1,33 @@
+Pokémon that can learn the move Rapid Spin
+
+Via Level Up:
+Squirtle: Lv. 23 | Lv. 23
+Wartortle: Lv. 25 | Lv. 25
+Blastoise: Lv. 25 | Lv. 25
+Staryu: Lv. 13 | Lv. 13
+Starmie: Lv. 1 | Lv. 1
+Pineco: Lv. 22 | Lv. 22
+Forretress: Lv. 22 | Lv. 22
+Donphan: Lv. 41 | Lv. 41
+Hitmontop: Lv. 25 | Lv. 25
+
+Via TM:
+NONE
+
+Via Breeding:
+Sandshrew
+Sandslash
+Tentacool
+Tentacruel
+Shellder
+Cloyster
+Hitmonlee
+Hitmonchan
+Kabuto
+Kabutops
+Delibird
+Tyrogue
+Hitmontop
+
+Via Special Event:
+NONE

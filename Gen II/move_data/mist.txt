@@ -1,0 +1,30 @@
+Pokémon that can learn the move Mist
+
+Via Level Up:
+Lapras: Lv. 8 | Lv. 8
+Articuno: Lv. 13 | Lv. 13
+Mewtwo: Lv. 55 | Lv. 55
+Wooper: Lv. 51 | Lv. 51
+Quagsire: Lv. 59 | Lv. 59
+Swinub: Lv. 37 | Lv. 37
+Piloswine: Lv. 42 | Lv. 42
+Suicune: Lv. 51 | Lv. 51
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Poliwag
+Poliwhirl
+Poliwrath
+Dratini
+Dragonair
+Dragonite
+Politoed
+Corsola
+
+Via Special Event:
+NONE

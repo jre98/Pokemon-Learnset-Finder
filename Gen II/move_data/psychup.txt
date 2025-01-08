@@ -1,0 +1,77 @@
+Pokémon that can learn the move Psych Up
+
+Via Level Up:
+Psyduck: Lv. 31 | Lv. 31
+Golduck: Lv. 31 | Lv. 31
+Drowzee: Lv. 43 | Lv. 43
+Hypno: Lv. 55 | Lv. 55
+Mewtwo: Lv. 33 | Lv. 33
+Espeon: Lv. 42 | Lv. 42
+
+Via TM:
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Meowth
+Persian
+Psyduck
+Golduck
+Mankey
+Primeape
+Abra
+Kadabra
+Alakazam
+Slowpoke
+Slowbro
+Farfetch'd
+Gastly
+Haunter
+Gengar
+Drowzee
+Hypno
+Exeggcute
+Exeggutor
+Lickitung
+Chansey
+Tangela
+Staryu
+Starmie
+Mr. Mime
+Jynx
+Porygon
+Snorlax
+Mewtwo
+Mew
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Natu
+Xatu
+Sudowoodo
+Espeon
+Umbreon
+Murkrow
+Slowking
+Misdreavus
+Girafarig
+Dunsparce
+Heracross
+Sneasel
+Porygon2
+Stantler
+Smoochum
+Miltank
+Raikou
+Entei
+Suicune
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

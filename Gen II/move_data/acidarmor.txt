@@ -1,0 +1,16 @@
+Pokémon that can learn the move Acid Armor
+
+Via Level Up:
+Grimer: Lv. 40 | Lv. 40
+Muk: Lv. 45 | Lv. 45
+Vaporeon: Lv. 47 | Lv. 47
+
+Via TM:
+NONE
+
+Via Breeding:
+Slugma
+Magcargo
+
+Via Special Event:
+NONE

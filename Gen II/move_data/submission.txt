@@ -1,0 +1,19 @@
+Pokémon that can learn the move Submission
+
+Via Level Up:
+Poliwrath: Lv. 1, Lv. 35 | Lv. 1, Lv. 35
+Machop: Lv. 49 | Lv. 49
+Machoke: Lv. 61 | Lv. 61
+Machamp: Lv. 61 | Lv. 61
+Pinsir: Lv. 37 | Lv. 37
+
+Via TM:
+NONE
+
+Via Breeding:
+Cyndaquil
+Quilava
+Typhlosion
+
+Via Special Event:
+NONE

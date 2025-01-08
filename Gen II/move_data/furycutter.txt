@@ -1,0 +1,56 @@
+Pokémon that can learn the move Fury Cutter
+
+Via Level Up:
+NONE
+
+Via TM:
+Bulbasaur
+Ivysaur
+Venusaur
+Charmander
+Charmeleon
+Charizard
+Sandshrew
+Sandslash
+Nidoqueen
+Nidoking
+Paras
+Parasect
+Golduck
+Geodude
+Graveler
+Golem
+Slowpoke
+Slowbro
+Krabby
+Kingler
+Rhydon
+Kangaskhan
+Scyther
+Pinsir
+Kabutops
+Dragonite
+Mew
+Chikorita
+Bayleef
+Meganium
+Totodile
+Croconaw
+Feraligatr
+Sentret
+Furret
+Aipom
+Slowking
+Gligar
+Scizor
+Heracross
+Sneasel
+Teddiursa
+Ursaring
+Tyranitar
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

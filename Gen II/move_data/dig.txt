@@ -1,0 +1,85 @@
+Pokémon that can learn the move Dig
+
+Via Level Up:
+Diglett: Lv. 17 | Lv. 17
+Dugtrio: Lv. 17 | Lv. 17
+
+Via TM:
+Charmander
+Charmeleon
+Charizard
+Squirtle
+Wartortle
+Blastoise
+Rattata
+Raticate
+Ekans
+Arbok
+Sandshrew
+Sandslash
+Vulpix
+Ninetales
+Paras
+Parasect
+Diglett
+Dugtrio
+Psyduck
+Golduck
+Mankey
+Primeape
+Growlithe
+Arcanine
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Geodude
+Graveler
+Golem
+Slowpoke
+Slowbro
+Onix
+Cubone
+Marowak
+Rhyhorn
+Rhydon
+Mew
+Cyndaquil
+Quilava
+Typhlosion
+Totodile
+Croconaw
+Feraligatr
+Sentret
+Furret
+Ledyba
+Ledian
+Spinarak
+Ariados
+Sudowoodo
+Wooper
+Quagsire
+Slowking
+Dunsparce
+Steelix
+Shuckle
+Sneasel
+Teddiursa
+Ursaring
+Hitmontop
+Raikou
+Entei
+Suicune
+Larvitar
+Pupitar
+Tyranitar
+
+Via Breeding:
+Krabby
+Kingler
+Kabuto
+Kabutops
+
+Via Special Event:
+NONE

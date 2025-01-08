@@ -1,0 +1,22 @@
+Pokémon that can learn the move Bide
+
+Via Level Up:
+Pineco: Lv. 29 | Lv. 29
+Forretress: Lv. 29 | Lv. 29
+Shuckle: Lv. 28 | Lv. 28
+Miltank: Lv. 26 | Lv. 26
+
+Via TM:
+NONE
+
+Via Breeding:
+Pikachu
+Raichu
+Ledyba
+Ledian
+Pichu
+Dunsparce
+Heracross
+
+Via Special Event:
+NONE

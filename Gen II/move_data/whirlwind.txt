@@ -1,0 +1,26 @@
+Pokémon that can learn the move Whirlwind
+
+Via Level Up:
+Butterfree: Lv. 23 | Lv. 23
+Pidgey: Lv. 21 | Lv. 21
+Pidgeotto: Lv. 23 | Lv. 23
+Pidgeot: Lv. 23 | Lv. 23
+Lugia: Lv. 77 | Lv. 77
+Ho-Oh: Lv. 77 | Lv. 77
+
+Via TM:
+NONE
+
+Via Breeding:
+Zubat
+Golbat
+Aerodactyl
+Hoothoot
+Noctowl
+Crobat
+Yanma
+Murkrow
+Skarmory
+
+Via Special Event:
+NONE

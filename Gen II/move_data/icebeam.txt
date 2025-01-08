@@ -1,0 +1,20 @@
+Pokémon that can learn the move Ice Beam
+
+Via Level Up:
+Seel: Lv. 37 | Lv. 37
+Dewgong: Lv. 43 | Lv. 43
+Shellder: Lv. 49 | Lv. 49
+Lapras: Lv. 36 | Lv. 36
+Articuno: Lv. 49 | Lv. 49
+Remoraid: Lv. 44 | Lv. 44
+Octillery: Lv. 54 | Lv. 54
+
+Via TM:
+NONE
+
+Via Breeding:
+Psyduck
+Golduck
+
+Via Special Event:
+NONE

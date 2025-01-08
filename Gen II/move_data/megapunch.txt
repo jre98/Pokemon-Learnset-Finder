@@ -1,0 +1,19 @@
+Pokémon that can learn the move Mega Punch
+
+Via Level Up:
+Hitmonchan: Lv. 38 | Lv. 38
+Kangaskhan: Lv. 25 | Lv. 25
+Mew: Lv. 20 | Lv. 20
+
+Via TM:
+NONE
+
+Via Breeding:
+Geodude
+Graveler
+Golem
+Magmar
+Magby
+
+Via Special Event:
+NONE

@@ -1,0 +1,42 @@
+Pokémon that can learn the move Reflect
+
+Via Level Up:
+Kadabra: Lv. 45 | Lv. 45
+Alakazam: Lv. 45 | Lv. 45
+Exeggcute: Lv. 7 | Lv. 7
+Mr. Mime: Lv. 26 | Lv. 26
+Articuno: Lv. 61 | Lv. 61
+Chikorita: Lv. 12 | Lv. 12
+Bayleef: Lv. 1, Lv. 12 | Lv. 1, Lv. 12
+Meganium: Lv. 1, Lv. 12 | Lv. 1, Lv. 12
+Hoothoot: Lv. 22 | Lv. 22
+Noctowl: Lv. 25 | Lv. 25
+Ledyba: Lv. 22 | Lv. 22
+Ledian: Lv. 24 | Lv. 24
+Raikou: Lv. 51 | Lv. 51
+
+Via TM:
+NONE
+
+Via Breeding:
+Bellsprout
+Weepinbell
+Victreebel
+Exeggcute
+Exeggutor
+Tangela
+Mareep
+Flaaffy
+Ampharos
+Hoppip
+Skiploom
+Jumpluff
+Pineco
+Forretress
+Snubbull
+Granbull
+Sneasel
+Stantler
+
+Via Special Event:
+NONE

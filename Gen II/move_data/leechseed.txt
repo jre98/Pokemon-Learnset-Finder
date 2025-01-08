@@ -1,0 +1,22 @@
+Pokémon that can learn the move Leech Seed
+
+Via Level Up:
+Bulbasaur: Lv. 7 | Lv. 7
+Ivysaur: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Venusaur: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Exeggcute: Lv. 13 | Lv. 13
+Hoppip: Lv. 20 | Lv. 20
+Skiploom: Lv. 22 | Lv. 22
+Jumpluff: Lv. 22 | Lv. 22
+Celebi: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Chikorita
+Bayleef
+Meganium
+
+Via Special Event:
+NONE

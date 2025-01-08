@@ -1,0 +1,17 @@
+Pokémon that can learn the move Powder Snow
+
+Via Level Up:
+Jynx: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Articuno: Lv. 1 | Lv. 1
+Swinub: Lv. 10 | Lv. 10
+Piloswine: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Smoochum: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,28 @@
+Pokémon that can learn the move Lick
+
+Via Level Up:
+Gastly: Lv. 1 | Lv. 1
+Haunter: Lv. 1 | Lv. 1
+Gengar: Lv. 1 | Lv. 1
+Lickitung: Lv. 1 | Lv. 1
+Jynx: Lv. 1 | Lv. 1
+Snubbull: Lv. 19 | Lv. 19
+Granbull: Lv. 19 | Lv. 19
+Teddiursa: Lv. 8 | Lv. 8
+Ursaring: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Smoochum: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Seel
+Dewgong
+Grimer
+Muk
+Snorlax
+Snubbull
+Granbull
+
+Via Special Event:
+NONE

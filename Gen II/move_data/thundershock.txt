@@ -1,0 +1,23 @@
+Pokémon that can learn the move ThunderShock
+
+Via Level Up:
+Pikachu: Lv. 1 | Lv. 1
+Raichu: Lv. 1 | Lv. 1
+Magnemite: Lv. 6 | Lv. 6
+Magneton: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Jolteon: Lv. 16 | Lv. 16
+Zapdos: Lv. 1 | Lv. 1
+Pichu: Lv. 1 | Lv. 1
+Mareep: Lv. 9 | Lv. 9
+Flaaffy: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Ampharos: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Raikou: Lv. 11 | Lv. 11
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

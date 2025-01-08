@@ -1,0 +1,43 @@
+Pokémon that can learn the move Foresight
+
+Via Level Up:
+Venonat: Lv. 1 | Lv. 1
+Venomoth: Lv. 1 | Lv. 1
+Machop: Lv. 25 | Lv. 25
+Machoke: Lv. 25 | Lv. 25
+Machamp: Lv. 25 | Lv. 25
+Hitmonlee: Lv. 36 | Lv. 36
+Hoothoot: Lv. 6 | Lv. 6
+Noctowl: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Yanma: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Pidgey
+Pidgeotto
+Pidgeot
+Psyduck
+Golduck
+Mankey
+Primeape
+Farfetch'd
+Kangaskhan
+Lapras
+Aerodactyl
+Cyndaquil
+Quilava
+Typhlosion
+Togepi
+Togetic
+Marill
+Azumarill
+Girafarig
+Sneasel
+
+Via Special Event:
+NONE

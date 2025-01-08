@@ -1,0 +1,16 @@
+Pokémon that can learn the move Pin Missile
+
+Via Level Up:
+Beedrill: Lv. 35 | Lv. 35
+Jolteon: Lv. 36 | Lv. 36
+Qwilfish: Lv. 28 | Lv. 28
+
+Via TM:
+NONE
+
+Via Breeding:
+Pineco
+Forretress
+
+Via Special Event:
+NONE

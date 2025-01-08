@@ -1,0 +1,19 @@
+Pokémon that can learn the move Twister
+
+Via Level Up:
+Horsea: Lv. 29 | Lv. 29
+Seadra: Lv. 29 | Lv. 29
+Gyarados: Lv. 35 | Lv. 35
+Dratini: Lv. 15 | Lv. 15
+Dragonair: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Dragonite: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Kingdra: Lv. 29 | Lv. 29
+
+Via TM:
+NONE
+
+Via Breeding:
+Mantine
+
+Via Special Event:
+NONE

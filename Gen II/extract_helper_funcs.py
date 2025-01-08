@@ -8,7 +8,41 @@ import re
 # TODO
 # Write helper function for TM data extraction (equivalent to "if TM_anchors" in main file)
 def get_TM_anchors(TM_anchors):
-    print()
+    # Define variables that the function will return
+    event_section = any
+    TM_section = any
+    if TM_anchors:
+        # If there is data, loop through each table associated with the "a" tag with name "TM"
+        for anchor in TM_anchors:
+            # Get the text immediately after the anchor (to see which table we are dealing with)
+            text_after_anchor = anchor.find_next(string=True).strip()
+            # print("The current text after the anchor is: ", text_after_anchor)
+
+            # First check is to see if the text "Event or a special way" occurs in the text after
+            # the anchor. This indicates that this is the table representing Pokemon who learn the
+            # move through an event or in some other special way
+            if "Event or a special way" in text_after_anchor:
+                # Confirm that we are processing the event/special way table
+                # print("Processing the Event table...")
+                # Store the table after the text we found in a new variable (this will store only
+                # info about Pokemon who learn the move through a special event or some other way)
+                event_section = anchor.find_next("table", class_="dextable")
+                
+            # This checks to make sure we are accessing the correct data for the Pokemon that can
+            # learn the move through TM
+
+            elif "TM" in text_after_anchor:
+                # Confirm that we are processing
+                # print("Processing the TM table...")
+                TM_section = anchor.find_next("table", class_="dextable")
+                # print(tm_table)
+
+        # Return the two values
+        return event_section, TM_section
+
+    # Handle case where TM_anchors is not defined
+    else:
+        return event_section, TM_section
 
 
 # Pulls the data about which Pokemon can learn the move via Level Up and returns a 

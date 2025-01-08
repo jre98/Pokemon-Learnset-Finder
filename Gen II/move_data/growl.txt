@@ -1,0 +1,60 @@
+Pokémon that can learn the move Growl
+
+Via Level Up:
+Bulbasaur: Lv. 4 | Lv. 4
+Ivysaur: Lv. 1, Lv. 4 | Lv. 1, Lv. 4
+Venusaur: Lv. 1, Lv. 4 | Lv. 1, Lv. 4
+Charmander: Lv. 1 | Lv. 1
+Charmeleon: Lv. 1 | Lv. 1
+Charizard: Lv. 1 | Lv. 1
+Spearow: Lv. 1 | Lv. 1
+Fearow: Lv. 1 | Lv. 1
+Pikachu: Lv. 1 | Lv. 1
+Nidoran♀: Lv. 1 | Lv. 1
+Nidorina: Lv. 1 | Lv. 1
+Clefairy: Lv. 1 | Lv. 1
+Diglett: Lv. 5 | Lv. 5
+Dugtrio: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Meowth: Lv. 1 | Lv. 1
+Persian: Lv. 1 | Lv. 1
+Ponyta: Lv. 4 | Lv. 4
+Rapidash: Lv. 1, Lv. 4 | Lv. 1, Lv. 4
+Slowpoke: Lv. 6 | Lv. 6
+Slowbro: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Doduo: Lv. 1 | Lv. 1
+Dodrio: Lv. 1 | Lv. 1
+Seel: Lv. 5 | Lv. 5
+Dewgong: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Cubone: Lv. 1 | Lv. 1
+Marowak: Lv. 1 | Lv. 1
+Chansey: Lv. 5 | Lv. 5
+Lapras: Lv. 1 | Lv. 1
+Eevee: Lv. 16 | Lv. 16
+Chikorita: Lv. 1 | Lv. 1
+Bayleef: Lv. 1 | Lv. 1
+Meganium: Lv. 1 | Lv. 1
+Hoothoot: Lv. 1 | Lv. 1
+Noctowl: Lv. 1 | Lv. 1
+Togepi: Lv. 1 | Lv. 1
+Togetic: Lv. 1 | Lv. 1
+Mareep: Lv. 1 | Lv. 1
+Flaaffy: Lv. 1 | Lv. 1
+Ampharos: Lv. 1 | Lv. 1
+Slowking: Lv. 6 | Lv. 6
+Misdreavus: Lv. 1 | Lv. 1
+Girafarig: Lv. 1 | Lv. 1
+Phanpy: Lv. 1 | Lv. 1
+Donphan: Lv. 1 | Lv. 1
+Miltank: Lv. 4 | Lv. 4
+Blissey: Lv. 4 | Lv. 4
+
+Via TM:
+NONE
+
+Via Breeding:
+Hoppip
+Skiploom
+Jumpluff
+
+Via Special Event:
+NONE

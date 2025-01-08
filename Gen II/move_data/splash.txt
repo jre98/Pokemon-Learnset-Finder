@@ -1,0 +1,26 @@
+Pokémon that can learn the move Splash
+
+Via Level Up:
+Magikarp: Lv. 1 | Lv. 1
+Hoppip: Lv. 1 | Lv. 1
+Skiploom: Lv. 1 | Lv. 1
+Jumpluff: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Clefairy
+Clefable
+Poliwag
+Poliwhirl
+Poliwrath
+Horsea
+Seadra
+Cleffa
+Politoed
+Delibird
+Kingdra
+
+Via Special Event:
+NONE

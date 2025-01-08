@@ -1,0 +1,21 @@
+Pokémon that can learn the move Smog
+
+Via Level Up:
+Koffing: Lv. 9 | Lv. 9
+Weezing: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Magmar: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Flareon: Lv. 42 | Lv. 42
+Slugma: Lv. 1 | Lv. 1
+Magcargo: Lv. 1 | Lv. 1
+Houndour: Lv. 13 | Lv. 13
+Houndoom: Lv. 13 | Lv. 13
+Magby: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

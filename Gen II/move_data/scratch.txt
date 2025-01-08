@@ -1,0 +1,40 @@
+Pokémon that can learn the move Scratch
+
+Via Level Up:
+Charmander: Lv. 1 | Lv. 1
+Charmeleon: Lv. 1 | Lv. 1
+Charizard: Lv. 1 | Lv. 1
+Sandshrew: Lv. 1 | Lv. 1
+Sandslash: Lv. 1 | Lv. 1
+Nidoran♀: Lv. 8 | Lv. 8
+Nidorina: Lv. 8 | Lv. 8
+Nidoqueen: Lv. 1 | Lv. 1
+Paras: Lv. 1 | Lv. 1
+Parasect: Lv. 1 | Lv. 1
+Diglett: Lv. 1 | Lv. 1
+Dugtrio: Lv. 1 | Lv. 1
+Meowth: Lv. 1 | Lv. 1
+Persian: Lv. 1 | Lv. 1
+Psyduck: Lv. 1 | Lv. 1
+Golduck: Lv. 1 | Lv. 1
+Mankey: Lv. 1 | Lv. 1
+Primeape: Lv. 1 | Lv. 1
+Kabuto: Lv. 1 | Lv. 1
+Kabutops: Lv. 1 | Lv. 1
+Totodile: Lv. 1 | Lv. 1
+Croconaw: Lv. 1 | Lv. 1
+Feraligatr: Lv. 1 | Lv. 1
+Furret: Lv. 1 | Lv. 1
+Aipom: Lv. 1 | Lv. 1
+Sneasel: Lv. 1 | Lv. 1
+Teddiursa: Lv. 1 | Lv. 1
+Ursaring: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

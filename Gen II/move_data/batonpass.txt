@@ -1,0 +1,24 @@
+Pokémon that can learn the move Baton Pass
+
+Via Level Up:
+Mr. Mime: Lv. 41 | Lv. 41
+Eevee:  | Lv. 36
+Ledyba: Lv. 29 | Lv. 29
+Ledian: Lv. 33 | Lv. 33
+Aipom: Lv. 12 | Lv. 12
+Girafarig: Lv. 30 | Lv. 30
+Celebi: Lv. 40 | Lv. 40
+
+Via TM:
+NONE
+
+Via Breeding:
+Venonat
+Venomoth
+Scyther
+Spinarak
+Ariados
+Scizor
+
+Via Special Event:
+Farfetch'd

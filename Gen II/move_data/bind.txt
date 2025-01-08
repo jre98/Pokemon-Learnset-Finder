@@ -1,0 +1,16 @@
+Pokémon that can learn the move Bind
+
+Via Level Up:
+Onix: Lv. 10 | Lv. 10
+Tangela: Lv. 25 | Lv. 25
+Pinsir: Lv. 13 | Lv. 13
+Steelix: Lv. 10 | Lv. 10
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

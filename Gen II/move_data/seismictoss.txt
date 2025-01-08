@@ -1,0 +1,20 @@
+Pokémon that can learn the move Seismic Toss
+
+Via Level Up:
+Mankey: Lv. 33 | Lv. 33
+Primeape: Lv. 36 | Lv. 36
+Machop: Lv. 19 | Lv. 19
+Machoke: Lv. 19 | Lv. 19
+Machamp: Lv. 19 | Lv. 19
+Pinsir: Lv. 19 | Lv. 19
+
+Via TM:
+NONE
+
+Via Breeding:
+Teddiursa
+Ursaring
+Miltank
+
+Via Special Event:
+NONE

@@ -1,0 +1,21 @@
+Pokémon that can learn the move Mega Drain
+
+Via Level Up:
+Tangela: Lv. 31 | Lv. 31
+Kabuto: Lv. 46 | Lv. 46
+Kabutops: Lv. 51 | Lv. 51
+Hoppip: Lv. 30 | Lv. 30
+Skiploom: Lv. 36 | Lv. 36
+Jumpluff: Lv. 44 | Lv. 44
+Sunkern: Lv. 10 | Lv. 10
+
+Via TM:
+NONE
+
+Via Breeding:
+Exeggcute
+Exeggutor
+Tangela
+
+Via Special Event:
+NONE

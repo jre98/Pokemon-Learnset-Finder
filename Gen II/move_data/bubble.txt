@@ -1,0 +1,26 @@
+Pokémon that can learn the move Bubble
+
+Via Level Up:
+Squirtle: Lv. 7 | Lv. 7
+Wartortle: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Blastoise: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Poliwag: Lv. 1 | Lv. 1
+Poliwhirl: Lv. 1 | Lv. 1
+Krabby: Lv. 1 | Lv. 1
+Kingler: Lv. 1 | Lv. 1
+Horsea: Lv. 1 | Lv. 1
+Seadra: Lv. 1 | Lv. 1
+Chinchou: Lv. 1 | Lv. 1
+Lanturn: Lv. 1 | Lv. 1
+Corsola: Lv. 13 | Lv. 13
+Mantine: Lv. 1 | Lv. 1
+Kingdra: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

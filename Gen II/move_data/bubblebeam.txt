@@ -1,0 +1,33 @@
+Pokémon that can learn the move BubbleBeam
+
+Via Level Up:
+Tentacool: Lv. 25 | Lv. 25
+Tentacruel: Lv. 25 | Lv. 25
+Staryu: Lv. 31 | Lv. 31
+Starmie: Lv. 1 | Lv. 1
+Marill: Lv. 21 | Lv. 21
+Azumarill: Lv. 25 | Lv. 25
+Corsola: Lv. 25 | Lv. 25
+Remoraid: Lv. 22 | Lv. 22
+Octillery: Lv. 22 | Lv. 22
+Mantine: Lv. 18 | Lv. 18
+Suicune: Lv. 41 | Lv. 11
+
+Via TM:
+NONE
+
+Via Breeding:
+Poliwag
+Poliwhirl
+Poliwrath
+Shellder
+Cloyster
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Politoed
+Qwilfish
+
+Via Special Event:
+NONE

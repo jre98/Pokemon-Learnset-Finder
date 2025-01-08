@@ -1,0 +1,21 @@
+Pokémon that can learn the move Mirror Coat
+
+Via Level Up:
+Voltorb: Lv. 41 | Lv. 41
+Electrode: Lv. 48 | Lv. 48
+Wobbuffet: Lv. 1 | Lv. 1
+Corsola: Lv. 37 | Lv. 37
+Suicune: Lv. 61 | Lv. 61
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Tentacool
+Tentacruel
+
+Via Special Event:
+NONE

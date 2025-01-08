@@ -1,0 +1,28 @@
+Pokémon that can learn the move Double-Edge
+
+Via Level Up:
+Jigglypuff: Lv. 39 | Lv. 39
+Chansey: Lv. 57 | Lv. 57
+Ledyba: Lv. 50 | Lv. 50
+Ledian: Lv. 60 | Lv. 60
+Togepi: Lv. 38 | Lv. 38
+Togetic: Lv. 38 | Lv. 38
+Marill: Lv. 28 | Lv. 28
+Azumarill: Lv. 36 | Lv. 36
+Pineco: Lv. 50 | Lv. 50
+Forretress: Lv. 59 | Lv. 59
+Phanpy: Lv. 49 | Lv. 49
+Blissey: Lv. 47 | Lv. 47
+
+Via TM:
+NONE
+
+Via Breeding:
+Sentret
+Furret
+Hoppip
+Skiploom
+Jumpluff
+
+Via Special Event:
+NONE

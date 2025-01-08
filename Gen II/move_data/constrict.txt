@@ -1,0 +1,21 @@
+Pokémon that can learn the move Constrict
+
+Via Level Up:
+Tentacool: Lv. 12 | Lv. 12
+Tentacruel: Lv. 1, Lv. 12 | Lv. 1, Lv. 12
+Tangela: Lv. 1 | Lv. 1
+Omanyte: Lv. 1 | Lv. 1
+Omastar: Lv. 1 | Lv. 1
+Spinarak: Lv. 11 | Lv. 11
+Ariados: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Shuckle: Lv. 1 | Lv. 1
+Octillery: Lv. 11 | Lv. 11
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

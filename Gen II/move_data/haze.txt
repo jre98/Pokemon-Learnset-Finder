@@ -1,0 +1,53 @@
+Pokémon that can learn the move Haze
+
+Via Level Up:
+Ekans: Lv. 43 | Lv. 43
+Arbok: Lv. 51 | Lv. 51
+Zubat: Lv. 46 | Lv. 46
+Golbat: Lv. 55 | Lv. 55
+Koffing: Lv. 33 | Lv. 33
+Weezing: Lv. 33 | Lv. 33
+Vaporeon: Lv. 42 | Lv. 42
+Crobat: Lv. 55 | Lv. 55
+Wooper: Lv. 51 | Lv. 51
+Quagsire: Lv. 59 | Lv. 59
+Murkrow: Lv. 16 | Lv. 16
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Poliwag
+Poliwhirl
+Poliwrath
+Tentacool
+Tentacruel
+Doduo
+Dodrio
+Grimer
+Muk
+Gastly
+Haunter
+Gengar
+Krabby
+Kingler
+Goldeen
+Seaking
+Omanyte
+Omastar
+Dratini
+Dragonair
+Dragonite
+Natu
+Xatu
+Politoed
+Qwilfish
+Remoraid
+Octillery
+Mantine
+
+Via Special Event:
+NONE

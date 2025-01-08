@@ -1,0 +1,27 @@
+Pokémon that can learn the move Swords Dance
+
+Via Level Up:
+Farfetch'd: Lv. 25 | Lv. 25
+Scyther: Lv. 42 | Lv. 42
+Pinsir: Lv. 43 | Lv. 43
+Scizor: Lv. 42 | Lv. 42
+
+Via TM:
+NONE
+
+Via Breeding:
+Oddish
+Gloom
+Vileplume
+Bellsprout
+Weepinbell
+Victreebel
+Cubone
+Marowak
+Chikorita
+Bayleef
+Meganium
+Bellossom
+
+Via Special Event:
+NONE

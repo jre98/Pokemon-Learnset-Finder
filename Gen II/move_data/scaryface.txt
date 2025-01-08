@@ -1,0 +1,34 @@
+Pokémon that can learn the move Scary Face
+
+Via Level Up:
+Charmander: Lv. 25 | Lv. 25
+Charmeleon: Lv. 27 | Lv. 27
+Charizard: Lv. 27 | Lv. 27
+Raticate: Lv. 20 | Lv. 20
+Machop: Lv. 43 | Lv. 43
+Machoke: Lv. 52 | Lv. 52
+Machamp: Lv. 52 | Lv. 52
+Rhyhorn: Lv. 31 | Lv. 31
+Rhydon: Lv. 31 | Lv. 31
+Tauros: Lv. 19 | Lv. 19
+Aerodactyl: Lv. 36 | Lv. 36
+Totodile: Lv. 27 | Lv. 27
+Croconaw: Lv. 28 | Lv. 28
+Feraligatr: Lv. 28 | Lv. 28
+Spinarak: Lv. 6 | Lv. 6
+Ariados: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Snubbull: Lv. 1 | Lv. 1
+Granbull: Lv. 1 | Lv. 1
+Larvitar: Lv. 36 | Lv. 36
+Pupitar: Lv. 38 | Lv. 38
+Tyranitar: Lv. 38 | Lv. 38
+
+Via TM:
+NONE
+
+Via Breeding:
+Spearow
+Fearow
+
+Via Special Event:
+NONE

@@ -1,0 +1,54 @@
+Pokémon that can learn the move Tail Whip
+
+Via Level Up:
+Squirtle: Lv. 4 | Lv. 4
+Wartortle: Lv. 1, Lv. 4 | Lv. 1, Lv. 4
+Blastoise: Lv. 1, Lv. 4 | Lv. 1, Lv. 4
+Rattata: Lv. 1 | Lv. 1
+Raticate: Lv. 1 | Lv. 1
+Pikachu: Lv. 6 | Lv. 6
+Raichu: Lv. 1 | Lv. 1
+Nidoran♀: Lv. 23 | Lv. 23
+Nidorina: Lv. 27 | Lv. 27
+Nidoqueen: Lv. 1 | Lv. 1
+Vulpix: Lv. 1 | Lv. 1
+Psyduck: Lv. 5 | Lv. 5
+Golduck: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Ponyta: Lv. 8 | Lv. 8
+Rapidash: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Cubone: Lv. 5 | Lv. 5
+Marowak: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Rhyhorn: Lv. 1 | Lv. 1
+Rhydon: Lv. 1 | Lv. 1
+Chansey: Lv. 9 | Lv. 9
+Kangaskhan: Lv. 19 | Lv. 19
+Goldeen: Lv. 1 | Lv. 1
+Seaking: Lv. 1 | Lv. 1
+Tauros: Lv. 4 | Lv. 4
+Eevee: Lv. 1 | Lv. 1
+Vaporeon: Lv. 1 | Lv. 1
+Jolteon: Lv. 1 | Lv. 1
+Flareon: Lv. 1 | Lv. 1
+Pichu: Lv. 6 | Lv. 6
+Marill: Lv. 6 | Lv. 6
+Azumarill: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Hoppip: Lv. 5 | Lv. 5
+Skiploom: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Jumpluff: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Aipom: Lv. 1 | Lv. 1
+Wooper: Lv. 1 | Lv. 1
+Quagsire: Lv. 1 | Lv. 1
+Espeon: Lv. 1 | Lv. 1
+Umbreon: Lv. 1 | Lv. 1
+Snubbull: Lv. 4 | Lv. 4
+Granbull: Lv. 4 | Lv. 4
+Blissey: Lv. 7 | Lv. 7
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

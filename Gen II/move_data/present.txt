@@ -1,0 +1,30 @@
+Pokémon that can learn the move Present
+
+Via Level Up:
+Delibird: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Pikachu
+Raichu
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Chansey
+Pichu
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Marill
+Azumarill
+Snubbull
+Granbull
+Miltank
+Blissey
+
+Via Special Event:
+NONE

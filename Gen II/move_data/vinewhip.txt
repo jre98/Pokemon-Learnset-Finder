@@ -1,0 +1,21 @@
+Pokémon that can learn the move Vine Whip
+
+Via Level Up:
+Bulbasaur: Lv. 10 | Lv. 10
+Ivysaur: Lv. 10 | Lv. 10
+Venusaur: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Bellsprout: Lv. 1 | Lv. 1
+Weepinbell: Lv. 1 | Lv. 1
+Victreebel: Lv. 1 | Lv. 1
+Tangela: Lv. 19 | Lv. 19
+
+Via TM:
+NONE
+
+Via Breeding:
+Chikorita
+Bayleef
+Meganium
+
+Via Special Event:
+NONE

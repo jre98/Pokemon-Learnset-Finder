@@ -1,0 +1,29 @@
+Pokémon that can learn the move Flamethrower
+
+Via Level Up:
+Charmander: Lv. 31 | Lv. 31
+Charmeleon: Lv. 34 | Lv. 34
+Charizard: Lv. 34 | Lv. 34
+Vulpix: Lv. 31 | Lv. 31
+Growlithe: Lv. 50 | Lv. 50
+Magmar: Lv. 41 | Lv. 41
+Flareon: Lv. 52 | Lv. 52
+Moltres: Lv. 49 | Lv. 49
+Cyndaquil: Lv. 46 | Lv. 46
+Quilava: Lv. 54 | Lv. 54
+Typhlosion: Lv. 60 | Lv. 60
+Slugma: Lv. 36 | Lv. 36
+Magcargo: Lv. 36 | Lv. 36
+Houndour: Lv. 35 | Lv. 35
+Houndoom: Lv. 41 | Lv. 41
+Magby: Lv. 37 | Lv. 37
+Entei: Lv. 51 | Lv. 51
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

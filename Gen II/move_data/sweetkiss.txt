@@ -1,0 +1,18 @@
+Pokémon that can learn the move Sweet Kiss
+
+Via Level Up:
+Pichu: Lv. 11 | Lv. 11
+Cleffa: Lv. 13 | Lv. 13
+Igglybuff: Lv. 14 | Lv. 14
+Togepi: Lv. 18 | Lv. 18
+Togetic: Lv. 18 | Lv. 18
+Smoochum: Lv. 9 | Lv. 9
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

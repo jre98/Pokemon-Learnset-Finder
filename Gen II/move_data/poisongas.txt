@@ -1,0 +1,18 @@
+Pokémon that can learn the move Poison Gas
+
+Via Level Up:
+Grimer: Lv. 1 | Lv. 1
+Muk: Lv. 1 | Lv. 1
+Drowzee: Lv. 31 | Lv. 31
+Hypno: Lv. 33 | Lv. 33
+Koffing: Lv. 1 | Lv. 1
+Weezing: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,14 @@
+Pokémon that can learn the move Transform
+
+Via Level Up:
+Ditto: Lv. 1 | Lv. 1
+Mew: Lv. 10 | Lv. 10
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,34 @@
+Pokémon that can learn the move Hypnosis
+
+Via Level Up:
+Poliwag: Lv. 7 | Lv. 7
+Poliwhirl: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Poliwrath: Lv. 1 | Lv. 1
+Gastly: Lv. 1 | Lv. 1
+Haunter: Lv. 1 | Lv. 1
+Gengar: Lv. 1 | Lv. 1
+Drowzee: Lv. 1 | Lv. 1
+Hypno: Lv. 1 | Lv. 1
+Exeggcute: Lv. 1 | Lv. 1
+Exeggutor: Lv. 1 | Lv. 1
+Hoothoot: Lv. 16 | Lv. 16
+Noctowl: Lv. 16 | Lv. 16
+Politoed: Lv. 1 | Lv. 1
+Stantler: Lv. 15 | Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+Vulpix
+Ninetales
+Meowth
+Persian
+Psyduck
+Golduck
+Ponyta
+Rapidash
+Mr. Mime
+
+Via Special Event:
+NONE

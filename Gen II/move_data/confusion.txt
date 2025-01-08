@@ -1,0 +1,43 @@
+Pokémon that can learn the move Confusion
+
+Via Level Up:
+Butterfree: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Venonat: Lv. 17 | Lv. 17
+Venomoth: Lv. 17 | Lv. 17
+Psyduck: Lv. 16 | Lv. 16
+Golduck: Lv. 1, Lv. 16 | Lv. 1, Lv. 16
+Kadabra: Lv. 1, Lv. 16 | Lv. 1, Lv. 16
+Alakazam: Lv. 1, Lv. 16 | Lv. 1, Lv. 16
+Slowpoke: Lv. 20 | Lv. 20
+Slowbro: Lv. 20 | Lv. 20
+Drowzee: Lv. 18 | Lv. 18
+Hypno: Lv. 1, Lv. 18 | Lv. 1, Lv. 18
+Exeggcute: Lv. 19 | Lv. 19
+Exeggutor: Lv. 1 | Lv. 1
+Mr. Mime: Lv. 6 | Lv. 6
+Mewtwo: Lv. 1 | Lv. 1
+Hoothoot: Lv. 34 | Lv. 34
+Noctowl: Lv. 41 | Lv. 41
+Espeon: Lv. 16 | Lv. 16
+Slowking: Lv. 20 | Lv. 20
+Girafarig: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Smoochum: Lv. 21 | Lv. 21
+Celebi: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Nidoran♂
+Nidorino
+Nidoking
+Tangela
+Hoppip
+Skiploom
+Jumpluff
+
+Via Special Event:
+NONE

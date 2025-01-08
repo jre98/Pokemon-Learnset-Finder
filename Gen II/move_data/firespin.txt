@@ -1,0 +1,25 @@
+Pokémon that can learn the move Fire Spin
+
+Via Level Up:
+Charmander: Lv. 49 | Lv. 49
+Charmeleon: Lv. 55 | Lv. 55
+Charizard: Lv. 64 | Lv. 64
+Vulpix: Lv. 37 | Lv. 37
+Ninetales: Lv. 43 | Lv. 43
+Ponyta: Lv. 26 | Lv. 26
+Rapidash: Lv. 26 | Lv. 26
+Flareon: Lv. 36 | Lv. 36
+Moltres: Lv. 13 | Lv. 13
+Entei: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Growlithe
+Arcanine
+Houndour
+Houndoom
+
+Via Special Event:
+NONE

@@ -1,0 +1,15 @@
+Pokémon that can learn the move ViceGrip
+
+Via Level Up:
+Krabby: Lv. 12 | Lv. 12
+Kingler: Lv. 1, Lv. 12 | Lv. 1, Lv. 12
+Pinsir: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

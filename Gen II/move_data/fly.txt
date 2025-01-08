@@ -1,0 +1,37 @@
+Pokémon that can learn the move Fly
+
+Via Level Up:
+NONE
+
+Via HM:
+Charizard
+Pidgey
+Pidgeotto
+Pidgeot
+Spearow
+Fearow
+Farfetch'd
+Doduo
+Dodrio
+Aerodactyl
+Articuno
+Zapdos
+Moltres
+Dragonite
+Mew
+Hoothoot
+Noctowl
+Crobat
+Togetic
+Xatu
+Murkrow
+Delibird
+Skarmory
+Lugia
+Ho-Oh
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

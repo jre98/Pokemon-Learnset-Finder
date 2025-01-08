@@ -1,0 +1,154 @@
+Pokémon that can learn the move Swift
+
+Via Level Up:
+Sandshrew: Lv. 30 | Lv. 30
+Sandslash: Lv. 33 | Lv. 33
+Magnemite: Lv. 33 | Lv. 33
+Magneton: Lv. 35 | 
+Voltorb: Lv. 37 | Lv. 37
+Electrode: Lv. 40 | Lv. 40
+Staryu: Lv. 25 | Lv. 25
+Electabuzz: Lv. 25 | Lv. 25
+Mewtwo: Lv. 22 | Lv. 22
+Cyndaquil: Lv. 36 | Lv. 36
+Quilava: Lv. 42 | Lv. 42
+Typhlosion: Lv. 45 | Lv. 45
+Ledyba: Lv. 36 | Lv. 36
+Ledian: Lv. 42 | Lv. 42
+Aipom: Lv. 27 | Lv. 27
+Yanma: Lv. 37 | 
+Espeon: Lv. 30 | Lv. 30
+Skarmory: Lv. 19 | Lv. 19
+Elekid: Lv. 25 | Lv. 25
+Lugia: Lv. 66 | Lv. 66
+Ho-Oh: Lv. 66 | Lv. 66
+
+Via TM:
+Charmander
+Charmeleon
+Charizard
+Butterfree
+Beedrill
+Pidgey
+Pidgeotto
+Pidgeot
+Rattata
+Raticate
+Spearow
+Fearow
+Pikachu
+Raichu
+Sandshrew
+Sandslash
+Vulpix
+Ninetales
+Zubat
+Golbat
+Venonat
+Venomoth
+Meowth
+Persian
+Psyduck
+Golduck
+Mankey
+Primeape
+Growlithe
+Arcanine
+Ponyta
+Rapidash
+Slowpoke
+Slowbro
+Magnemite
+Magneton
+Farfetch'd
+Doduo
+Dodrio
+Shellder
+Cloyster
+Voltorb
+Electrode
+Hitmonlee
+Hitmonchan
+Horsea
+Seadra
+Goldeen
+Seaking
+Staryu
+Starmie
+Scyther
+Electabuzz
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Porygon
+Aerodactyl
+Articuno
+Zapdos
+Moltres
+Dratini
+Dragonair
+Dragonite
+Mewtwo
+Mew
+Cyndaquil
+Quilava
+Typhlosion
+Sentret
+Furret
+Hoothoot
+Noctowl
+Ledyba
+Ledian
+Crobat
+Pichu
+Togepi
+Togetic
+Natu
+Xatu
+Mareep
+Flaaffy
+Ampharos
+Marill
+Azumarill
+Aipom
+Yanma
+Espeon
+Umbreon
+Murkrow
+Slowking
+Misdreavus
+Girafarig
+Gligar
+Qwilfish
+Scizor
+Heracross
+Sneasel
+Teddiursa
+Ursaring
+Remoraid
+Octillery
+Delibird
+Mantine
+Skarmory
+Houndour
+Houndoom
+Kingdra
+Porygon2
+Stantler
+Tyrogue
+Hitmontop
+Elekid
+Raikou
+Entei
+Suicune
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+Pineco
+Forretress
+
+Via Special Event:
+NONE

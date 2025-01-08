@@ -1,0 +1,22 @@
+Pokémon that can learn the move Mirror Move
+
+Via Level Up:
+Pidgey: Lv. 47 | Lv. 47
+Pidgeotto: Lv. 55 | Lv. 55
+Pidgeot: Lv. 61 | Lv. 61
+Spearow: Lv. 31 | Lv. 31
+Fearow: Lv. 32 | Lv. 32
+
+Via TM:
+NONE
+
+Via Breeding:
+Farfetch'd
+Hoothoot
+Noctowl
+Togepi
+Togetic
+Murkrow
+
+Via Special Event:
+NONE

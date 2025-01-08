@@ -1,0 +1,15 @@
+Pokémon that can learn the move Vital Throw
+
+Via Level Up:
+Machop: Lv. 31 | Lv. 31
+Machoke: Lv. 34 | Lv. 34
+Machamp: Lv. 34 | Lv. 34
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

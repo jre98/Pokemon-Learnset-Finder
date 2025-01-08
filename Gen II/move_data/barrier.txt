@@ -1,0 +1,26 @@
+Pokémon that can learn the move Barrier
+
+Via Level Up:
+Tentacool: Lv. 36 | Lv. 36
+Tentacruel: Lv. 38 | Lv. 38
+Mr. Mime: Lv. 1 | Lv. 1
+Mewtwo: Lv. 11 | Lv. 11
+
+Via TM:
+NONE
+
+Via Breeding:
+Abra
+Kadabra
+Alakazam
+Shellder
+Cloyster
+Drowzee
+Hypno
+Electabuzz
+Magmar
+Elekid
+Magby
+
+Via Special Event:
+NONE

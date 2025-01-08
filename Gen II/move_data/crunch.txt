@@ -1,0 +1,32 @@
+Pokémon that can learn the move Crunch
+
+Via Level Up:
+Girafarig: Lv. 54 | Lv. 54
+Steelix: Lv. 49 | Lv. 49
+Houndour: Lv. 43 | Lv. 43
+Houndoom: Lv. 52 | Lv. 52
+Raikou: Lv. 61 | Lv. 61
+Larvitar: Lv. 43 | Lv. 43
+Pupitar: Lv. 47 | Lv. 47
+Tyranitar: Lv. 47 | Lv. 47
+
+Via TM:
+NONE
+
+Via Breeding:
+Ekans
+Arbok
+Growlithe
+Arcanine
+Rhyhorn
+Rhydon
+Totodile
+Croconaw
+Feraligatr
+Snubbull
+Granbull
+Teddiursa
+Ursaring
+
+Via Special Event:
+NONE

@@ -1,0 +1,23 @@
+Pokémon that can learn the move Recover
+
+Via Level Up:
+Kadabra: Lv. 26 | Lv. 26
+Alakazam: Lv. 26 | Lv. 26
+Staryu: Lv. 19 | Lv. 19
+Starmie: Lv. 1 | Lv. 1
+Porygon: Lv. 20 | Lv. 20
+Mewtwo: Lv. 88 | Lv. 88
+Corsola: Lv. 19 | Lv. 19
+Porygon2: Lv. 20 | Lv. 20
+Lugia: Lv. 33 | Lv. 33
+Ho-Oh: Lv. 33 | Lv. 33
+Celebi: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

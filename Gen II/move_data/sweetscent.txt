@@ -1,0 +1,57 @@
+Pokémon that can learn the move Sweet Scent
+
+Via Level Up:
+Bulbasaur: Lv. 25 | Lv. 25
+Ivysaur: Lv. 29 | Lv. 29
+Venusaur: Lv. 29 | Lv. 29
+Oddish: Lv. 7 | Lv. 7
+Gloom: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Vileplume: Lv. 1 | Lv. 1
+Bellsprout: Lv. 30 | Lv. 30
+Weepinbell: Lv. 33 | Lv. 33
+Victreebel: Lv. 1 | Lv. 1
+Bellossom: Lv. 1 | Lv. 1
+
+Via TM:
+Bulbasaur
+Ivysaur
+Venusaur
+Butterfree
+Beedrill
+Oddish
+Gloom
+Vileplume
+Paras
+Parasect
+Venonat
+Venomoth
+Bellsprout
+Weepinbell
+Victreebel
+Tangela
+Jynx
+Mew
+Chikorita
+Bayleef
+Meganium
+Ledyba
+Ledian
+Bellossom
+Hoppip
+Skiploom
+Jumpluff
+Sunkern
+Sunflora
+Pineco
+Forretress
+Smoochum
+Miltank
+Celebi
+
+Via Breeding:
+Paras
+Parasect
+Shuckle
+
+Via Special Event:
+NONE

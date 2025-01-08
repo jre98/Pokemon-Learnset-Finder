@@ -1,0 +1,25 @@
+Pokémon that can learn the move SmokeScreen
+
+Via Level Up:
+Charmander: Lv. 13 | Lv. 13
+Charmeleon: Lv. 13 | Lv. 13
+Charizard: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Koffing: Lv. 25 | Lv. 25
+Weezing: Lv. 25 | Lv. 25
+Horsea: Lv. 8 | Lv. 8
+Seadra: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Magmar: Lv. 25 | Lv. 25
+Cyndaquil: Lv. 6 | Lv. 6
+Quilava: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Typhlosion: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Kingdra: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Magby: Lv. 25 | Lv. 25
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

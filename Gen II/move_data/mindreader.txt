@@ -1,0 +1,22 @@
+Pokémon that can learn the move Mind Reader
+
+Via Level Up:
+Poliwrath: Lv. 51 | Lv. 51
+Hitmonlee: Lv. 31 | Lv. 31
+Articuno: Lv. 37 | Lv. 37
+
+Via TM:
+NONE
+
+Via Breeding:
+Poliwag
+Poliwhirl
+Poliwrath
+Hitmonlee
+Hitmonchan
+Politoed
+Tyrogue
+Hitmontop
+
+Via Special Event:
+NONE

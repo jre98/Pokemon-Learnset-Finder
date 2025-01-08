@@ -1,0 +1,27 @@
+Pokémon that can learn the move Spite
+
+Via Level Up:
+Gastly: Lv. 8 | Lv. 8
+Haunter: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Gengar: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Misdreavus: Lv. 6 | Lv. 6
+Dunsparce: Lv. 18 | Lv. 18
+
+Via TM:
+NONE
+
+Via Breeding:
+Ekans
+Arbok
+Vulpix
+Ninetales
+Meowth
+Persian
+Aipom
+Sneasel
+Houndour
+Houndoom
+Stantler
+
+Via Special Event:
+NONE

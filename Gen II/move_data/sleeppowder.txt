@@ -1,0 +1,28 @@
+Pokémon that can learn the move Sleep Powder
+
+Via Level Up:
+Bulbasaur: Lv. 15 | Lv. 15
+Ivysaur: Lv. 15 | Lv. 15
+Venusaur: Lv. 15 | Lv. 15
+Butterfree: Lv. 15 | Lv. 15
+Oddish: Lv. 18 | Lv. 18
+Gloom: Lv. 18 | Lv. 18
+Venonat: Lv. 36 | Lv. 36
+Venomoth: Lv. 42 | Lv. 42
+Bellsprout: Lv. 15 | Lv. 15
+Weepinbell: Lv. 15 | Lv. 15
+Victreebel: Lv. 1 | Lv. 1
+Exeggcute: Lv. 37 | Lv. 37
+Tangela: Lv. 4 | Lv. 4
+Hoppip: Lv. 17 | Lv. 17
+Skiploom: Lv. 17 | Lv. 17
+Jumpluff: Lv. 17 | Lv. 17
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

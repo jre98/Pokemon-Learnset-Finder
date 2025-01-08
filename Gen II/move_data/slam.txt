@@ -1,0 +1,36 @@
+Pokémon that can learn the move Slam
+
+Via Level Up:
+Pikachu: Lv. 20 | Lv. 20
+Bellsprout: Lv. 45 | Lv. 45
+Weepinbell: Lv. 54 | Lv. 54
+Onix: Lv. 40 | Lv. 40
+Lickitung: Lv. 37 | Lv. 37
+Tangela: Lv. 40 | Lv. 40
+Dratini: Lv. 29 | Lv. 29
+Dragonair: Lv. 29 | Lv. 29
+Dragonite: Lv. 29 | Lv. 29
+Sentret: Lv. 25 | Lv. 25
+Furret: Lv. 28 | Lv. 28
+Sudowoodo: Lv. 46 | Lv. 46
+Wooper: Lv. 11 | Lv. 11
+Quagsire: Lv. 11 | Lv. 11
+Steelix: Lv. 40 | Lv. 40
+
+Via TM:
+NONE
+
+Via Breeding:
+Ekans
+Arbok
+Seel
+Dewgong
+Krabby
+Kingler
+Omanyte
+Omastar
+Aipom
+Mantine
+
+Via Special Event:
+NONE

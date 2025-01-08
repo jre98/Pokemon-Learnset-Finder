@@ -1,0 +1,53 @@
+Pokémon that can learn the move Agility
+
+Via Level Up:
+Beedrill: Lv. 40 | Lv. 40
+Pidgey: Lv. 37 | Lv. 37
+Pidgeotto: Lv. 43 | Lv. 43
+Pidgeot: Lv. 46 | Lv. 46
+Spearow: Lv. 43 | Lv. 43
+Fearow: Lv. 47 | Lv. 47
+Pikachu: Lv. 33 | Lv. 33
+Growlithe: Lv. 42 | Lv. 42
+Ponyta: Lv. 43 | Lv. 43
+Rapidash: Lv. 47 | Lv. 47
+Farfetch'd: Lv. 31 | Lv. 31
+Doduo: Lv. 37 | Lv. 37
+Dodrio: Lv. 47 | Lv. 47
+Hitmonchan: Lv. 7 | Lv. 7
+Horsea: Lv. 36 | Lv. 36
+Seadra: Lv. 40 | Lv. 40
+Goldeen: Lv. 52 | Lv. 52
+Seaking: Lv. 61 | Lv. 61
+Scyther: Lv. 24 | Lv. 24
+Jolteon: Lv. 47 | Lv. 47
+Porygon: Lv. 9 | Lv. 9
+Aerodactyl: Lv. 8 | Lv. 8
+Articuno: Lv. 25 | Lv. 25
+Zapdos: Lv. 25 | Lv. 25
+Moltres: Lv. 25 | Lv. 25
+Dratini: Lv. 36 | Lv. 36
+Dragonair: Lv. 38 | Lv. 38
+Dragonite: Lv. 38 | Lv. 38
+Ledyba: Lv. 43 | Lv. 43
+Ledian: Lv. 51 | Lv. 51
+Spinarak:  | Lv. 45
+Ariados:  | Lv. 53
+Aipom: Lv. 46 | Lv. 46
+Girafarig: Lv. 20 | Lv. 20
+Scizor: Lv. 24 | Lv. 24
+Sneasel: Lv. 41 | Lv. 41
+Mantine: Lv. 32 | Lv. 32
+Skarmory: Lv. 25 | Lv. 25
+Kingdra: Lv. 40 | Lv. 40
+Porygon2: Lv. 9 | Lv. 9
+Hitmontop: Lv. 37 | Lv. 37
+
+Via TM:
+NONE
+
+Via Breeding:
+Aipom
+
+Via Special Event:
+NONE

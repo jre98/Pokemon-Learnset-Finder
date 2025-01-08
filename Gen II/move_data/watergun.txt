@@ -1,0 +1,44 @@
+Pokémon that can learn the move Water Gun
+
+Via Level Up:
+Squirtle: Lv. 13 | Lv. 13
+Wartortle: Lv. 13 | Lv. 13
+Blastoise: Lv. 13 | Lv. 13
+Poliwag: Lv. 13 | Lv. 13
+Poliwhirl: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Poliwrath: Lv. 1 | Lv. 1
+Slowpoke: Lv. 15 | Lv. 15
+Slowbro: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Horsea: Lv. 22 | Lv. 22
+Seadra: Lv. 1, Lv. 22 | Lv. 1, Lv. 22
+Staryu: Lv. 7 | Lv. 7
+Lapras: Lv. 1 | Lv. 1
+Vaporeon: Lv. 16 | Lv. 16
+Omanyte: Lv. 19 | Lv. 19
+Omastar: Lv. 19 | Lv. 19
+Totodile: Lv. 13 | Lv. 13
+Croconaw: Lv. 13 | Lv. 13
+Feraligatr: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Chinchou: Lv. 17 | Lv. 17
+Lanturn: Lv. 17 | Lv. 17
+Marill: Lv. 10 | Lv. 10
+Azumarill: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Politoed: Lv. 1 | Lv. 1
+Wooper: Lv. 1 | Lv. 1
+Quagsire: Lv. 1 | Lv. 1
+Slowking: Lv. 15 | Lv. 15
+Qwilfish: Lv. 19 | Lv. 19
+Remoraid: Lv. 1 | Lv. 1
+Octillery: Lv. 1 | Lv. 1
+Kingdra: Lv. 1, Lv. 22 | Lv. 1, Lv. 22
+Suicune: Lv. 11 | 
+
+Via TM:
+NONE
+
+Via Breeding:
+Phanpy
+Donphan
+
+Via Special Event:
+NONE

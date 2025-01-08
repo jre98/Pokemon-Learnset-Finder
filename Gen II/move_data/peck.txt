@@ -1,0 +1,29 @@
+Pokémon that can learn the move Peck
+
+Via Level Up:
+Spearow: Lv. 1 | Lv. 1
+Fearow: Lv. 1 | Lv. 1
+Farfetch'd: Lv. 1 | Lv. 1
+Doduo: Lv. 1 | Lv. 1
+Dodrio: Lv. 1 | Lv. 1
+Goldeen: Lv. 1 | Lv. 1
+Seaking: Lv. 1 | Lv. 1
+Zapdos: Lv. 1 | Lv. 1
+Hoothoot: Lv. 11 | Lv. 11
+Noctowl: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Natu: Lv. 1 | Lv. 1
+Xatu: Lv. 1 | Lv. 1
+Murkrow: Lv. 1 | Lv. 1
+Skarmory: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Seel
+Dewgong
+Togepi
+Togetic
+
+Via Special Event:
+NONE

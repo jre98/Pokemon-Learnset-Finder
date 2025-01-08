@@ -1,0 +1,19 @@
+Pokémon that can learn the move Skull Bash
+
+Via Level Up:
+Squirtle: Lv. 40 | Lv. 40
+Wartortle: Lv. 45 | Lv. 45
+Blastoise: Lv. 55 | Lv. 55
+
+Via TM:
+NONE
+
+Via Breeding:
+Bulbasaur
+Ivysaur
+Venusaur
+Cubone
+Marowak
+
+Via Special Event:
+NONE

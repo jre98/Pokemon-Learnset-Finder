@@ -1,0 +1,30 @@
+Pokémon that can learn the move Synthesis
+
+Via Level Up:
+Bulbasaur: Lv. 39 | Lv. 39
+Ivysaur: Lv. 47 | Lv. 47
+Venusaur: Lv. 53 | Lv. 53
+Chikorita: Lv. 22 | Lv. 22
+Bayleef: Lv. 23 | Lv. 23
+Meganium: Lv. 23 | Lv. 23
+Hoppip: Lv. 1 | Lv. 5
+Skiploom: Lv. 1 | Lv. 1, Lv. 5
+Jumpluff: Lv. 1 | Lv. 1, Lv. 5
+Sunkern: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Oddish
+Gloom
+Vileplume
+Bellsprout
+Weepinbell
+Victreebel
+Exeggcute
+Exeggutor
+Bellossom
+
+Via Special Event:
+NONE

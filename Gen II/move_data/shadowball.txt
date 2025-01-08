@@ -1,0 +1,68 @@
+Pokémon that can learn the move Shadow Ball
+
+Via Level Up:
+NONE
+
+Via TM:
+Rattata
+Raticate
+Nidoqueen
+Nidoking
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Meowth
+Persian
+Abra
+Kadabra
+Alakazam
+Slowpoke
+Slowbro
+Gastly
+Haunter
+Gengar
+Drowzee
+Hypno
+Lickitung
+Chansey
+Kangaskhan
+Mr. Mime
+Jynx
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Snorlax
+Mewtwo
+Mew
+Sentret
+Furret
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Aipom
+Espeon
+Umbreon
+Murkrow
+Slowking
+Misdreavus
+Girafarig
+Snubbull
+Granbull
+Sneasel
+Houndour
+Houndoom
+Smoochum
+Miltank
+Blissey
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

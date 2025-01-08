@@ -1,0 +1,87 @@
+Pokémon that can learn the move Psychic
+
+Via Level Up:
+Venonat: Lv. 41 | Lv. 41
+Venomoth: Lv. 52 | Lv. 52
+Kadabra: Lv. 38 | Lv. 38
+Alakazam: Lv. 38 | Lv. 38
+Slowpoke: Lv. 48 | Lv. 48
+Slowbro: Lv. 54 | Lv. 54
+Drowzee: Lv. 40 | Lv. 40
+Hypno: Lv. 49 | Lv. 49
+Mewtwo: Lv. 66 | Lv. 66
+Mew: Lv. 40 | Lv. 40
+Spinarak: Lv. 53 | Lv. 53
+Ariados: Lv. 63 | Lv. 63
+Natu: Lv. 50 | Lv. 50
+Xatu: Lv. 65 | Lv. 65
+Espeon: Lv. 47 | Lv. 47
+Slowking: Lv. 48 | Lv. 48
+Smoochum: Lv. 37 | Lv. 37
+
+Via TM:
+Butterfree
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Venonat
+Venomoth
+Poliwag
+Poliwhirl
+Poliwrath
+Abra
+Kadabra
+Alakazam
+Slowpoke
+Slowbro
+Gastly
+Haunter
+Gengar
+Drowzee
+Hypno
+Exeggcute
+Exeggutor
+Chansey
+Staryu
+Starmie
+Mr. Mime
+Jynx
+Electabuzz
+Magmar
+Lapras
+Porygon
+Snorlax
+Mewtwo
+Mew
+Spinarak
+Ariados
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Natu
+Xatu
+Politoed
+Espeon
+Umbreon
+Slowking
+Misdreavus
+Girafarig
+Corsola
+Porygon2
+Stantler
+Smoochum
+Elekid
+Magby
+Blissey
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+Psyduck
+Golduck
+
+Via Special Event:
+NONE

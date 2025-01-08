@@ -1,0 +1,27 @@
+Pokémon that can learn the move DoubleSlap
+
+Via Level Up:
+Clefairy: Lv. 13 | Lv. 13
+Clefable: Lv. 1 | Lv. 1
+Jigglypuff: Lv. 24 | Lv. 24
+Wigglytuff: Lv. 1 | Lv. 1
+Poliwag: Lv. 19 | Lv. 19
+Poliwhirl: Lv. 19 | Lv. 19
+Poliwrath: Lv. 1 | Lv. 1
+Chansey: Lv. 17 | Lv. 17
+Mr. Mime: Lv. 21 | Lv. 21
+Jynx: Lv. 21 | Lv. 21
+Politoed: Lv. 1 | Lv. 1
+Blissey: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+Pikachu
+Raichu
+Pichu
+Aipom
+
+Via Special Event:
+NONE

@@ -1,0 +1,36 @@
+Pokémon that can learn the move Psybeam
+
+Via Level Up:
+Butterfree: Lv. 34 | Lv. 34
+Venonat: Lv. 33 | Lv. 33
+Venomoth: Lv. 36 | Lv. 36
+Kadabra: Lv. 21 | Lv. 21
+Alakazam: Lv. 21 | Lv. 21
+Mr. Mime: Lv. 36 | Lv. 36
+Porygon: Lv. 12 | Lv. 12
+Espeon: Lv. 36 | Lv. 36
+Misdreavus: Lv. 27 | Lv. 27
+Girafarig: Lv. 41 | Lv. 41
+Remoraid: Lv. 22 | Lv. 22
+Octillery: Lv. 22 | Lv. 22
+Porygon2: Lv. 12 | Lv. 12
+
+Via TM:
+NONE
+
+Via Breeding:
+Paras
+Parasect
+Psyduck
+Golduck
+Koffing
+Weezing
+Goldeen
+Seaking
+Ledyba
+Ledian
+Spinarak
+Ariados
+
+Via Special Event:
+NONE

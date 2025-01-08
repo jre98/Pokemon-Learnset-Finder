@@ -1,0 +1,88 @@
+Pokémon that can learn the move Rollout
+
+Via Level Up:
+Jigglypuff: Lv. 19 | Lv. 19
+Geodude: Lv. 31 | Lv. 31
+Graveler: Lv. 34 | Lv. 34
+Golem: Lv. 34 | Lv. 34
+Voltorb: Lv. 29 | Lv. 29
+Electrode: Lv. 29 | Lv. 29
+Snorlax: Lv. 50 | Lv. 50
+Marill: Lv. 15 | Lv. 15
+Azumarill: Lv. 15 | Lv. 15
+Phanpy: Lv. 33 | Lv. 33
+Donphan: Lv. 33 | Lv. 33
+Miltank: Lv. 34 | Lv. 34
+
+Via TM:
+Squirtle
+Wartortle
+Blastoise
+Pikachu
+Raichu
+Sandshrew
+Sandslash
+Nidoqueen
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Geodude
+Graveler
+Golem
+Magnemite
+Magneton
+Voltorb
+Electrode
+Exeggcute
+Exeggutor
+Lickitung
+Koffing
+Weezing
+Rhyhorn
+Rhydon
+Chansey
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Snorlax
+Mew
+Cyndaquil
+Quilava
+Typhlosion
+Sentret
+Furret
+Ledyba
+Ledian
+Pichu
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Marill
+Azumarill
+Sudowoodo
+Wooper
+Quagsire
+Pineco
+Forretress
+Dunsparce
+Steelix
+Qwilfish
+Shuckle
+Teddiursa
+Ursaring
+Slugma
+Magcargo
+Corsola
+Phanpy
+Donphan
+Miltank
+Blissey
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

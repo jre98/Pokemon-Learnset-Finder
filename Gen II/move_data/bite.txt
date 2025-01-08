@@ -1,0 +1,55 @@
+Pokémon that can learn the move Bite
+
+Via Level Up:
+Squirtle: Lv. 18 | Lv. 18
+Wartortle: Lv. 19 | Lv. 19
+Blastoise: Lv. 19 | Lv. 19
+Ekans: Lv. 15 | Lv. 15
+Arbok: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Nidoran♀: Lv. 30 | Lv. 30
+Nidorina: Lv. 36 | Lv. 36
+Zubat: Lv. 12 | Lv. 12
+Golbat: Lv. 12 | Lv. 12
+Meowth: Lv. 11 | Lv. 11
+Persian: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Growlithe: Lv. 1 | Lv. 1
+Kangaskhan: Lv. 13 | Lv. 13
+Gyarados: Lv. 20 | Lv. 20
+Eevee: Lv. 30 | Lv. 30
+Vaporeon: Lv. 30 | Lv. 30
+Flareon: Lv. 30 | Lv. 30
+Omanyte: Lv. 13 | Lv. 13
+Omastar: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Aerodactyl: Lv. 15 | Lv. 15
+Totodile: Lv. 20 | Lv. 20
+Croconaw: Lv. 21 | Lv. 21
+Feraligatr: Lv. 21 | Lv. 21
+Crobat: Lv. 12 | Lv. 12
+Snubbull: Lv. 13 | Lv. 13
+Granbull: Lv. 13 | Lv. 13
+Houndour: Lv. 20 | Lv. 20
+Houndoom: Lv. 20 | Lv. 20
+Raikou: Lv. 1 | Lv. 1
+Entei: Lv. 1 | Lv. 1
+Suicune: Lv. 1 | Lv. 1
+Larvitar: Lv. 1 | Lv. 1
+Pupitar: Lv. 1 | Lv. 1
+Tyranitar: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Charmander
+Charmeleon
+Charizard
+Rattata
+Raticate
+Dunsparce
+Sneasel
+Swinub
+Piloswine
+Stantler
+
+Via Special Event:
+NONE

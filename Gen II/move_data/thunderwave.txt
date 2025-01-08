@@ -1,0 +1,26 @@
+Pokémon that can learn the move Thunder Wave
+
+Via Level Up:
+Pikachu: Lv. 8 | Lv. 8
+Magnemite: Lv. 21 | Lv. 21
+Magneton: Lv. 21 | Lv. 21
+Jolteon: Lv. 42 | Lv. 42
+Zapdos: Lv. 13 | Lv. 13
+Dratini: Lv. 8 | Lv. 8
+Dragonair: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Dragonite: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Chinchou: Lv. 1 | Lv. 1
+Lanturn: Lv. 1 | Lv. 1
+Pichu: Lv. 8 | Lv. 8
+Mareep: Lv. 16 | Lv. 16
+Flaaffy: Lv. 18 | Lv. 18
+Ampharos: Lv. 1, Lv. 18 | Lv. 1, Lv. 18
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

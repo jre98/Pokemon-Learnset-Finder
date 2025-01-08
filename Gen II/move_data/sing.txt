@@ -1,0 +1,22 @@
+Pokémon that can learn the move Sing
+
+Via Level Up:
+Clefairy: Lv. 8 | Lv. 8
+Clefable: Lv. 1 | Lv. 1
+Jigglypuff: Lv. 1 | Lv. 1
+Wigglytuff: Lv. 1 | Lv. 1
+Chansey: Lv. 29 | Lv. 29
+Lapras: Lv. 1 | Lv. 1
+Cleffa: Lv. 8 | Lv. 8
+Igglybuff: Lv. 1 | Lv. 1
+Smoochum: Lv. 25 | Lv. 25
+Blissey: Lv. 23 | Lv. 23
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

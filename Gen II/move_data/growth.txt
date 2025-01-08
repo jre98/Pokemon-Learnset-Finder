@@ -1,0 +1,22 @@
+Pokémon that can learn the move Growth
+
+Via Level Up:
+Bulbasaur: Lv. 32 | Lv. 32
+Ivysaur: Lv. 38 | Lv. 38
+Venusaur: Lv. 41 | Lv. 41
+Paras: Lv. 37 | Lv. 37
+Parasect: Lv. 46 | Lv. 46
+Bellsprout: Lv. 6 | Lv. 6
+Weepinbell: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Tangela: Lv. 46 | Lv. 46
+Sunkern: Lv. 4 | Lv. 4
+Sunflora: Lv. 4 | Lv. 4
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

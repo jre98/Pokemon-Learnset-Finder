@@ -1,0 +1,68 @@
+Pokémon that can learn the move Giga Drain
+
+Via Level Up:
+Paras: Lv. 43 | Lv. 43
+Parasect: Lv. 55 | Lv. 55
+Sunkern: Lv. 46 | Lv. 46
+
+Via TM:
+Bulbasaur
+Ivysaur
+Venusaur
+Butterfree
+Ekans
+Arbok
+Zubat
+Golbat
+Oddish
+Gloom
+Vileplume
+Paras
+Parasect
+Venonat
+Venomoth
+Bellsprout
+Weepinbell
+Victreebel
+Tentacool
+Tentacruel
+Grimer
+Muk
+Gastly
+Haunter
+Gengar
+Exeggcute
+Exeggutor
+Tangela
+Kabuto
+Kabutops
+Mew
+Chikorita
+Bayleef
+Meganium
+Ledyba
+Ledian
+Spinarak
+Ariados
+Crobat
+Natu
+Xatu
+Bellossom
+Hoppip
+Skiploom
+Jumpluff
+Sunkern
+Sunflora
+Yanma
+Pineco
+Forretress
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+Venonat
+Venomoth
+
+Via Special Event:
+NONE

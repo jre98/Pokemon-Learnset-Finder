@@ -1,0 +1,72 @@
+Pokémon that can learn the move Roar
+
+Via Level Up:
+Vulpix: Lv. 13 | Lv. 13
+Growlithe: Lv. 1 | Lv. 1
+Arcanine: Lv. 1 | Lv. 1
+Snubbull: Lv. 26 | Lv. 26
+Granbull: Lv. 28 | Lv. 28
+Houndour: Lv. 7 | Lv. 7
+Houndoom: Lv. 7 | Lv. 7
+Raikou: Lv. 21 | Lv. 21
+Entei: Lv. 21 | Lv. 21
+Suicune: Lv. 21 | 
+
+Via TM:
+Venusaur
+Charizard
+Blastoise
+Rattata
+Raticate
+Nidoqueen
+Nidoking
+Ninetales
+Persian
+Growlithe
+Arcanine
+Geodude
+Graveler
+Golem
+Onix
+Rhyhorn
+Rhydon
+Kangaskhan
+Gyarados
+Vaporeon
+Jolteon
+Flareon
+Aerodactyl
+Articuno
+Zapdos
+Moltres
+Mew
+Cyndaquil
+Quilava
+Typhlosion
+Totodile
+Croconaw
+Feraligatr
+Steelix
+Snubbull
+Granbull
+Teddiursa
+Ursaring
+Swinub
+Piloswine
+Houndour
+Houndoom
+Phanpy
+Donphan
+Stantler
+Raikou
+Entei
+Suicune
+Tyranitar
+Lugia
+Ho-Oh
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

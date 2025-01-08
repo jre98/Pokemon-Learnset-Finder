@@ -1,0 +1,20 @@
+Pokémon that can learn the move Drill Peck
+
+Via Level Up:
+Spearow: Lv. 37 | Lv. 37
+Fearow: Lv. 40 | Lv. 40
+Doduo: Lv. 33 | Lv. 33
+Dodrio: Lv. 38 | Lv. 38
+Zapdos: Lv. 49 | Lv. 49
+
+Via TM:
+NONE
+
+Via Breeding:
+Natu
+Xatu
+Murkrow
+Skarmory
+
+Via Special Event:
+NONE

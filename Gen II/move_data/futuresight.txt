@@ -1,0 +1,33 @@
+Pokémon that can learn the move Future Sight
+
+Via Level Up:
+Kadabra: Lv. 31 | Lv. 31
+Alakazam: Lv. 31 | Lv. 31
+Drowzee: Lv. 45 | Lv. 45
+Hypno: Lv. 60 | Lv. 60
+Mewtwo: Lv. 44 | Lv. 44
+Natu: Lv. 30 | Lv. 30
+Xatu: Lv. 35 | Lv. 35
+Lugia: Lv. 99 | Lv. 99
+Ho-Oh: Lv. 99 | Lv. 99
+Celebi: Lv. 30 | Lv. 30
+
+Via TM:
+NONE
+
+Via Breeding:
+Psyduck
+Golduck
+Slowpoke
+Slowbro
+Mr. Mime
+Togepi
+Togetic
+Marill
+Azumarill
+Slowking
+Girafarig
+Delibird
+
+Via Special Event:
+NONE

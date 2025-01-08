@@ -1,0 +1,46 @@
+Pokémon that can learn the move AncientPower
+
+Via Level Up:
+Omanyte: Lv. 49 | Lv. 49
+Omastar: Lv. 54 | Lv. 54
+Kabuto: Lv. 55 | Lv. 55
+Kabutops: Lv. 65 | Lv. 65
+Aerodactyl: Lv. 29 | Lv. 29
+Mew: Lv. 50 | Lv. 50
+Corsola: Lv. 43 | Lv. 43
+Lugia: Lv. 88 | Lv. 88
+Ho-Oh: Lv. 88 | Lv. 88
+Celebi: Lv. 20 | Lv. 20
+
+Via TM:
+NONE
+
+Via Breeding:
+Charmander
+Charmeleon
+Charizard
+Diglett
+Dugtrio
+Exeggcute
+Exeggutor
+Cubone
+Marowak
+Chikorita
+Bayleef
+Meganium
+Totodile
+Croconaw
+Feraligatr
+Wooper
+Quagsire
+Dunsparce
+Swinub
+Piloswine
+Phanpy
+Donphan
+Larvitar
+Pupitar
+Tyranitar
+
+Via Special Event:
+NONE

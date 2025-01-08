@@ -1,0 +1,57 @@
+Pokémon that can learn the move Quick Attack
+
+Via Level Up:
+Pidgey: Lv. 15 | Lv. 15
+Pidgeotto: Lv. 15 | Lv. 15
+Pidgeot: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Rattata: Lv. 7 | Lv. 7
+Raticate: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Pikachu: Lv. 11 | Lv. 11
+Raichu: Lv. 1 | Lv. 1
+Vulpix: Lv. 7 | Lv. 7
+Ninetales: Lv. 1 | Lv. 1
+Scyther: Lv. 1 | Lv. 1
+Electabuzz: Lv. 1 | Lv. 1
+Eevee: Lv. 23 | Lv. 23
+Vaporeon: Lv. 23 | Lv. 23
+Jolteon: Lv. 23 | Lv. 23
+Flareon: Lv. 23 | Lv. 23
+Cyndaquil: Lv. 19 | Lv. 19
+Quilava: Lv. 21 | Lv. 21
+Typhlosion: Lv. 21 | Lv. 21
+Sentret: Lv. 11 | Lv. 11
+Furret: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Yanma: Lv. 7 | Lv. 7
+Espeon: Lv. 23 | Lv. 23
+Umbreon: Lv. 23 | Lv. 23
+Gligar: Lv. 20 | Lv. 20
+Scizor: Lv. 1 | Lv. 1
+Sneasel: Lv. 9 | Lv. 9
+Hitmontop: Lv. 19 | Lv. 19
+Elekid: Lv. 1 | Lv. 1
+Raikou: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Spearow
+Fearow
+Zubat
+Golbat
+Ponyta
+Rapidash
+Farfetch'd
+Doduo
+Dodrio
+Cyndaquil
+Quilava
+Typhlosion
+Crobat
+Natu
+Xatu
+Murkrow
+Delibird
+
+Via Special Event:
+NONE

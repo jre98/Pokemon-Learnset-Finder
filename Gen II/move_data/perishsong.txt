@@ -1,0 +1,29 @@
+Pokémon that can learn the move Perish Song
+
+Via Level Up:
+Jynx: Lv. 51 | Lv. 51
+Lapras: Lv. 29 | Lv. 29
+Politoed: Lv. 1, Lv. 35 | Lv. 1, Lv. 35
+Misdreavus: Lv. 46 | Lv. 46
+Smoochum: Lv. 45 | Lv. 45
+Celebi: Lv. 50 | Lv. 50
+
+Via TM:
+NONE
+
+Via Breeding:
+Jigglypuff
+Wigglytuff
+Seel
+Dewgong
+Gastly
+Haunter
+Gengar
+Cubone
+Marowak
+Igglybuff
+Marill
+Azumarill
+
+Via Special Event:
+NONE

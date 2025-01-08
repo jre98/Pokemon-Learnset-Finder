@@ -1,0 +1,20 @@
+Pokémon that can learn the move Flame Wheel
+
+Via Level Up:
+Growlithe: Lv. 34 | Lv. 34
+Arcanine: Lv. 1 | Lv. 1
+Cyndaquil: Lv. 27 | Lv. 27
+Quilava: Lv. 31 | Lv. 31
+Typhlosion: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Rattata
+Raticate
+Ponyta
+Rapidash
+
+Via Special Event:
+NONE

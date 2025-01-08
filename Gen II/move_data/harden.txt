@@ -1,0 +1,32 @@
+Pokémon that can learn the move Harden
+
+Via Level Up:
+Metapod: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Kakuna: Lv. 1, Lv. 7 | Lv. 1, Lv. 7
+Geodude: Lv. 26 | Lv. 26
+Graveler: Lv. 27 | Lv. 27
+Golem: Lv. 27 | Lv. 27
+Grimer: Lv. 5 | Lv. 5
+Muk: Lv. 1, Lv. 33 | Lv. 1, Lv. 33
+Onix: Lv. 23 | Lv. 23
+Krabby: Lv. 16 | Lv. 16
+Kingler: Lv. 16 | Lv. 16
+Staryu: Lv. 1 | Lv. 1
+Pinsir: Lv. 25 | Lv. 25
+Kabuto: Lv. 1 | Lv. 1
+Kabutops: Lv. 1 | Lv. 1
+Gligar: Lv. 13 | Lv. 13
+Steelix: Lv. 23 | Lv. 23
+Qwilfish: Lv. 10 | Lv. 10
+Slugma: Lv. 22 | Lv. 22
+Magcargo: Lv. 22 | Lv. 22
+Corsola: Lv. 7 | Lv. 7
+
+Via TM:
+NONE
+
+Via Breeding:
+Heracross
+
+Via Special Event:
+NONE

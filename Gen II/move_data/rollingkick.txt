@@ -1,0 +1,18 @@
+Pokémon that can learn the move Rolling Kick
+
+Via Level Up:
+Hitmonlee: Lv. 11 | Lv. 11
+Hitmontop: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Machop
+Machoke
+Machamp
+Electabuzz
+Elekid
+
+Via Special Event:
+NONE

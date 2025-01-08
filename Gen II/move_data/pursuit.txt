@@ -1,0 +1,52 @@
+Pokémon that can learn the move Pursuit
+
+Via Level Up:
+Beedrill: Lv. 30 | Lv. 30
+Rattata: Lv. 27 | Lv. 27
+Raticate: Lv. 30 | Lv. 30
+Spearow: Lv. 25 | Lv. 25
+Fearow: Lv. 26 | Lv. 26
+Doduo: Lv. 9 | Lv. 9
+Dodrio: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Hitmonchan: Lv. 13 | Lv. 13
+Scyther: Lv. 12 | Lv. 12
+Tauros: Lv. 26 | Lv. 26
+Umbreon: Lv. 16 | Lv. 16
+Murkrow: Lv. 11 | Lv. 11
+Dunsparce: Lv. 26 | Lv. 26
+Scizor: Lv. 12 | Lv. 12
+Hitmontop: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+Pidgey
+Pidgeotto
+Pidgeot
+Ekans
+Arbok
+Zubat
+Golbat
+Paras
+Parasect
+Diglett
+Dugtrio
+Rhyhorn
+Rhydon
+Aerodactyl
+Sentret
+Furret
+Spinarak
+Ariados
+Crobat
+Aipom
+Skarmory
+Houndour
+Houndoom
+Larvitar
+Pupitar
+Tyranitar
+
+Via Special Event:
+NONE

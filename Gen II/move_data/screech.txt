@@ -1,0 +1,74 @@
+Pokémon that can learn the move Screech
+
+Via Level Up:
+Ekans: Lv. 29 | Lv. 29
+Arbok: Lv. 33 | Lv. 33
+Golbat: Lv. 1 | Lv. 1
+Meowth: Lv. 35 | Lv. 35
+Persian: Lv. 38 | Lv. 38
+Psyduck: Lv. 23 | Lv. 23
+Golduck: Lv. 23 | Lv. 23
+Mankey: Lv. 45 | Lv. 45
+Primeape: Lv. 54 | Lv. 54
+Tentacool: Lv. 43 | Lv. 43
+Tentacruel: Lv. 47 | Lv. 47
+Magnemite: Lv. 39 | Lv. 39
+Magneton: Lv. 43 | Lv. 43
+Grimer: Lv. 31 | Lv. 31
+Muk: Lv. 31 | Lv. 31
+Onix: Lv. 1 | Lv. 1
+Voltorb: Lv. 9 | Lv. 9
+Electrode: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Lickitung: Lv. 43 | Lv. 43
+Electabuzz: Lv. 36 | Lv. 36
+Totodile: Lv. 43 | Lv. 43
+Croconaw: Lv. 45 | Lv. 45
+Feraligatr: Lv. 47 | Lv. 47
+Spinarak: Lv. 45 | 
+Ariados: Lv. 53 | 
+Crobat: Lv. 1 | Lv. 1
+Aipom: Lv. 36 | Lv. 36
+Yanma: Lv. 43 | Lv. 43
+Umbreon: Lv. 47 | Lv. 47
+Dunsparce: Lv. 30 | Lv. 30
+Gligar: Lv. 44 | Lv. 44
+Steelix: Lv. 1 | Lv. 1
+Sneasel: Lv. 17 | Lv. 17
+Elekid: Lv. 33 | Lv. 33
+Larvitar: Lv. 15 | Lv. 15
+Pupitar: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+Tyranitar: Lv. 1, Lv. 15 | Lv. 1, Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+Rattata
+Raticate
+Paras
+Parasect
+Venonat
+Venomoth
+Diglett
+Dugtrio
+Shellder
+Cloyster
+Cubone
+Marowak
+Koffing
+Weezing
+Magmar
+Chinchou
+Lanturn
+Mareep
+Flaaffy
+Ampharos
+Aipom
+Misdreavus
+Corsola
+Remoraid
+Octillery
+Magby
+
+Via Special Event:
+NONE

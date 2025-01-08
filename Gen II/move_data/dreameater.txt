@@ -1,0 +1,70 @@
+Pokémon that can learn the move Dream Eater
+
+Via Level Up:
+Gastly: Lv. 33 | Lv. 33
+Haunter: Lv. 39 | Lv. 39
+Gengar: Lv. 39 | Lv. 39
+Hoothoot: Lv. 48 | Lv. 48
+Noctowl: Lv. 57 | Lv. 57
+
+Via TM:
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Meowth
+Persian
+Abra
+Kadabra
+Alakazam
+Slowpoke
+Slowbro
+Gastly
+Haunter
+Gengar
+Drowzee
+Hypno
+Exeggcute
+Exeggutor
+Lickitung
+Chansey
+Staryu
+Starmie
+Mr. Mime
+Jynx
+Lapras
+Porygon
+Mewtwo
+Mew
+Hoothoot
+Noctowl
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Natu
+Xatu
+Aipom
+Espeon
+Umbreon
+Murkrow
+Slowking
+Misdreavus
+Girafarig
+Dunsparce
+Sneasel
+Houndour
+Houndoom
+Porygon2
+Stantler
+Smoochum
+Blissey
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

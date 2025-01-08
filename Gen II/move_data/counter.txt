@@ -1,0 +1,43 @@
+Pokémon that can learn the move Counter
+
+Via Level Up:
+Hitmonchan: Lv. 50 | Lv. 50
+Wobbuffet: Lv. 1 | Lv. 1
+Heracross: Lv. 27 | Lv. 27
+Hitmontop: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Rattata
+Raticate
+Sandshrew
+Sandslash
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Paras
+Parasect
+Mankey
+Primeape
+Rhyhorn
+Rhydon
+Scyther
+Chikorita
+Bayleef
+Meganium
+Aipom
+Gligar
+Scizor
+Sneasel
+Teddiursa
+Ursaring
+Houndour
+Houndoom
+
+Via Special Event:
+NONE

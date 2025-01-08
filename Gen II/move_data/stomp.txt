@@ -1,0 +1,30 @@
+Pokémon that can learn the move Stomp
+
+Via Level Up:
+Ponyta: Lv. 19 | Lv. 19
+Rapidash: Lv. 19 | Lv. 19
+Krabby: Lv. 23 | Lv. 23
+Kingler: Lv. 23 | Lv. 23
+Exeggutor: Lv. 19 | Lv. 19
+Lickitung: Lv. 19 | Lv. 19
+Rhyhorn: Lv. 13 | Lv. 13
+Rhydon: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Girafarig: Lv. 1, Lv. 13 | Lv. 1, Lv. 13
+Stantler: Lv. 23 | Lv. 23
+Miltank: Lv. 13 | Lv. 13
+Entei: Lv. 41 | Lv. 41
+
+Via TM:
+NONE
+
+Via Breeding:
+Slowpoke
+Slowbro
+Kangaskhan
+Slowking
+Larvitar
+Pupitar
+Tyranitar
+
+Via Special Event:
+NONE

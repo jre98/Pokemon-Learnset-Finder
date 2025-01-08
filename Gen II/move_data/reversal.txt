@@ -1,0 +1,34 @@
+Pokémon that can learn the move Reversal
+
+Via Level Up:
+Hitmonlee: Lv. 51 | Lv. 51
+Kangaskhan: Lv. 49 | Lv. 49
+Heracross: Lv. 44 | Lv. 44
+
+Via TM:
+NONE
+
+Via Breeding:
+Rattata
+Raticate
+Pikachu
+Raichu
+Mankey
+Primeape
+Rhyhorn
+Rhydon
+Scyther
+Cyndaquil
+Quilava
+Typhlosion
+Sentret
+Furret
+Pichu
+Yanma
+Scizor
+Houndour
+Houndoom
+Miltank
+
+Via Special Event:
+NONE

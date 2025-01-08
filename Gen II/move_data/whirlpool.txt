@@ -1,0 +1,59 @@
+Pokémon that can learn the move Whirlpool
+
+Via Level Up:
+NONE
+
+Via HM:
+Squirtle
+Wartortle
+Blastoise
+Psyduck
+Golduck
+Poliwag
+Poliwhirl
+Poliwrath
+Tentacool
+Tentacruel
+Seel
+Dewgong
+Shellder
+Cloyster
+Krabby
+Kingler
+Horsea
+Seadra
+Staryu
+Starmie
+Gyarados
+Lapras
+Vaporeon
+Omanyte
+Omastar
+Kabutops
+Dragonite
+Mew
+Totodile
+Croconaw
+Feraligatr
+Chinchou
+Lanturn
+Marill
+Azumarill
+Politoed
+Wooper
+Quagsire
+Slowking
+Qwilfish
+Corsola
+Remoraid
+Octillery
+Mantine
+Kingdra
+Suicune
+Lugia
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

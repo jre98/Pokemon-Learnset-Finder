@@ -1,0 +1,26 @@
+Pokémon that can learn the move Pound
+
+Via Level Up:
+Clefairy: Lv. 1 | Lv. 1
+Jigglypuff: Lv. 9 | Lv. 9
+Grimer: Lv. 1 | Lv. 1
+Muk: Lv. 1 | Lv. 1
+Drowzee: Lv. 1 | Lv. 1
+Hypno: Lv. 1 | Lv. 1
+Chansey: Lv. 1 | Lv. 1
+Jynx: Lv. 1 | Lv. 1
+Mew: Lv. 1 | Lv. 1
+Cleffa: Lv. 1 | Lv. 1
+Igglybuff: Lv. 9 | Lv. 9
+Sunflora: Lv. 1 | Lv. 1
+Smoochum: Lv. 1 | Lv. 1
+Blissey: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,45 @@
+Pokémon that can learn the move Disable
+
+Via Level Up:
+Jigglypuff: Lv. 14 | Lv. 14
+Wigglytuff: Lv. 1 | Lv. 1
+Venonat: Lv. 1 | Lv. 1
+Venomoth: Lv. 1 | Lv. 1
+Psyduck: Lv. 10 | Lv. 10
+Golduck: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Kadabra: Lv. 18 | Lv. 18
+Alakazam: Lv. 18 | Lv. 18
+Slowpoke: Lv. 29 | Lv. 29
+Slowbro: Lv. 29 | Lv. 29
+Grimer: Lv. 10 | Lv. 10
+Muk: Lv. 37 | Lv. 37
+Drowzee: Lv. 10 | Lv. 10
+Hypno: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Lickitung: Lv. 31 | Lv. 31
+Mewtwo: Lv. 1 | Lv. 1
+Slowking: Lv. 29 | Lv. 29
+
+Via TM:
+NONE
+
+Via Breeding:
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Vulpix
+Ninetales
+Seel
+Dewgong
+Kangaskhan
+Horsea
+Seadra
+Spinarak
+Ariados
+Kingdra
+Stantler
+
+Via Special Event:
+NONE

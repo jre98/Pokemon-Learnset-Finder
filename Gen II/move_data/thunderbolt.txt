@@ -1,0 +1,18 @@
+Pokémon that can learn the move Thunderbolt
+
+Via Level Up:
+Pikachu: Lv. 26 | Lv. 26
+Raichu: Lv. 1 | Lv. 1
+Electabuzz: Lv. 47 | Lv. 47
+Elekid: Lv. 41 | Lv. 41
+
+Via TM:
+NONE
+
+Via Breeding:
+Mareep
+Flaaffy
+Ampharos
+
+Via Special Event:
+NONE

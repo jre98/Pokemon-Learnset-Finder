@@ -1,0 +1,21 @@
+Pokémon that can learn the move Double Kick
+
+Via Level Up:
+Nidoran♀: Lv. 12 | Lv. 12
+Nidorina: Lv. 12 | Lv. 12
+Nidoqueen: Lv. 1 | Lv. 1
+Nidoran♂: Lv. 12 | Lv. 12
+Nidorino: Lv. 12 | Lv. 12
+Nidoking: Lv. 1 | Lv. 1
+Hitmonlee: Lv. 1 | Lv. 1
+Jolteon: Lv. 30 | Lv. 30
+
+Via TM:
+NONE
+
+Via Breeding:
+Ponyta
+Rapidash
+
+Via Special Event:
+NONE

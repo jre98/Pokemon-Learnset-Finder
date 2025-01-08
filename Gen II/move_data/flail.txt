@@ -1,0 +1,61 @@
+Pokémon that can learn the move Flail
+
+Via Level Up:
+Goldeen: Lv. 24 | Lv. 24
+Seaking: Lv. 24 | Lv. 24
+Magikarp: Lv. 30 | Lv. 30
+Chinchou: Lv. 13 | Lv. 13
+Lanturn: Lv. 13 | Lv. 13
+Sudowoodo: Lv. 10 | Lv. 10
+Phanpy: Lv. 17 | Lv. 17
+Donphan: Lv. 17 | Lv. 17
+
+Via TM:
+NONE
+
+Via Breeding:
+Squirtle
+Wartortle
+Blastoise
+Sandshrew
+Sandslash
+Vulpix
+Ninetales
+Oddish
+Gloom
+Vileplume
+Paras
+Parasect
+Farfetch'd
+Doduo
+Dodrio
+Onix
+Krabby
+Kingler
+Tangela
+Horsea
+Seadra
+Pinsir
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Kabuto
+Kabutops
+Chikorita
+Bayleef
+Meganium
+Chinchou
+Lanturn
+Bellossom
+Espeon
+Umbreon
+Pineco
+Forretress
+Steelix
+Qwilfish
+Heracross
+Kingdra
+
+Via Special Event:
+NONE

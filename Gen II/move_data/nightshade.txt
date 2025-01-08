@@ -1,0 +1,20 @@
+Pokémon that can learn the move Night Shade
+
+Via Level Up:
+Gastly: Lv. 21 | Lv. 21
+Haunter: Lv. 21 | Lv. 21
+Gengar: Lv. 21 | Lv. 21
+Spinarak: Lv. 17 | Lv. 17
+Ariados: Lv. 17 | Lv. 17
+Natu: Lv. 10 | Lv. 10
+Xatu: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Murkrow: Lv. 26 | Lv. 26
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

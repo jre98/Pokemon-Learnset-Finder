@@ -1,0 +1,96 @@
+Pokémon that can learn the move Tackle
+
+Via Level Up:
+Bulbasaur: Lv. 1 | Lv. 1
+Ivysaur: Lv. 1 | Lv. 1
+Venusaur: Lv. 1 | Lv. 1
+Squirtle: Lv. 1 | Lv. 1
+Wartortle: Lv. 1 | Lv. 1
+Blastoise: Lv. 1 | Lv. 1
+Caterpie: Lv. 1 | Lv. 1
+Pidgey: Lv. 1 | Lv. 1
+Pidgeotto: Lv. 1 | Lv. 1
+Pidgeot: Lv. 1 | Lv. 1
+Rattata: Lv. 1 | Lv. 1
+Raticate: Lv. 1 | Lv. 1
+Nidoran♀: Lv. 1 | Lv. 1
+Nidorina: Lv. 1 | Lv. 1
+Nidoqueen: Lv. 1 | Lv. 1
+Nidoran♂: Lv. 1 | Lv. 1
+Nidorino: Lv. 1 | Lv. 1
+Nidoking: Lv. 1 | Lv. 1
+Venonat: Lv. 1 | Lv. 1
+Venomoth: Lv. 1 | Lv. 1
+Geodude: Lv. 1 | Lv. 1
+Graveler: Lv. 1 | Lv. 1
+Golem: Lv. 1 | Lv. 1
+Ponyta: Lv. 1 | Lv. 1
+Rapidash: Lv. 1 | Lv. 1
+Slowpoke: Lv. 1 | Lv. 1
+Slowbro: Lv. 1 | Lv. 1
+Magnemite: Lv. 1 | Lv. 1
+Magneton: Lv. 1 | Lv. 1
+Shellder: Lv. 1 | Lv. 1
+Onix: Lv. 1 | Lv. 1
+Voltorb: Lv. 1 | Lv. 1
+Electrode: Lv. 1 | Lv. 1
+Koffing: Lv. 1 | Lv. 1
+Weezing: Lv. 1 | Lv. 1
+Staryu: Lv. 1 | Lv. 1
+Starmie: Lv. 1 | Lv. 1
+Tauros: Lv. 1 | Lv. 1
+Magikarp: Lv. 15 | Lv. 15
+Eevee: Lv. 1 | Lv. 1
+Vaporeon: Lv. 1 | Lv. 1
+Jolteon: Lv. 1 | Lv. 1
+Flareon: Lv. 1 | Lv. 1
+Porygon: Lv. 1 | Lv. 1
+Snorlax: Lv. 1 | Lv. 1
+Chikorita: Lv. 1 | Lv. 1
+Bayleef: Lv. 1 | Lv. 1
+Meganium: Lv. 1 | Lv. 1
+Cyndaquil: Lv. 1 | Lv. 1
+Quilava: Lv. 1 | Lv. 1
+Typhlosion: Lv. 1 | Lv. 1
+Sentret: Lv. 1 | Lv. 1
+Hoothoot: Lv. 1 | Lv. 1
+Noctowl: Lv. 1 | Lv. 1
+Ledyba: Lv. 1 | Lv. 1
+Ledian: Lv. 1 | Lv. 1
+Mareep: Lv. 1 | Lv. 1
+Flaaffy: Lv. 1 | Lv. 1
+Ampharos: Lv. 1 | Lv. 1
+Marill: Lv. 1 | Lv. 1
+Azumarill: Lv. 1 | Lv. 1
+Hoppip: Lv. 10 | Lv. 10
+Skiploom: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Jumpluff: Lv. 1, Lv. 10 | Lv. 1, Lv. 10
+Yanma: Lv. 1 | Lv. 1
+Espeon: Lv. 1 | Lv. 1
+Umbreon: Lv. 1 | Lv. 1
+Slowking: Lv. 1 | Lv. 1
+Girafarig: Lv. 1 | Lv. 1
+Pineco: Lv. 1 | Lv. 1
+Forretress: Lv. 1 | Lv. 1
+Steelix: Lv. 1 | Lv. 1
+Snubbull: Lv. 1 | Lv. 1
+Granbull: Lv. 1 | Lv. 1
+Qwilfish: Lv. 1 | Lv. 1
+Heracross: Lv. 1 | Lv. 1
+Swinub: Lv. 1 | Lv. 1
+Corsola: Lv. 1 | Lv. 1
+Mantine: Lv. 1 | Lv. 1
+Phanpy: Lv. 1 | Lv. 1
+Porygon2: Lv. 1 | Lv. 1
+Stantler: Lv. 1 | Lv. 1
+Tyrogue: Lv. 1 | Lv. 1
+Miltank: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

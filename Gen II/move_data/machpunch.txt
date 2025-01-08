@@ -1,0 +1,16 @@
+Pokémon that can learn the move Mach Punch
+
+Via Level Up:
+Hitmonchan: Lv. 32 | Lv. 32
+
+Via TM:
+NONE
+
+Via Breeding:
+Hitmonlee
+Hitmonchan
+Tyrogue
+Hitmontop
+
+Via Special Event:
+NONE

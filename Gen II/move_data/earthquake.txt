@@ -1,0 +1,84 @@
+Pokémon that can learn the move Earthquake
+
+Via Level Up:
+Diglett: Lv. 41 | Lv. 41
+Dugtrio: Lv. 49 | Lv. 49
+Geodude: Lv. 36 | Lv. 36
+Graveler: Lv. 41 | Lv. 41
+Golem: Lv. 41 | Lv. 41
+Rhyhorn: Lv. 55 | Lv. 55
+Rhydon: Lv. 65 | Lv. 65
+Wooper: Lv. 31 | Lv. 31
+Quagsire: Lv. 35 | Lv. 35
+Donphan: Lv. 49 | Lv. 49
+Larvitar: Lv. 50 | Lv. 50
+Pupitar: Lv. 56 | Lv. 56
+Tyranitar: Lv. 61 | Lv. 61
+
+Via TM:
+Charizard
+Blastoise
+Ekans
+Arbok
+Sandshrew
+Sandslash
+Nidoqueen
+Nidoking
+Diglett
+Dugtrio
+Poliwhirl
+Poliwrath
+Machop
+Machoke
+Machamp
+Geodude
+Graveler
+Golem
+Slowpoke
+Slowbro
+Onix
+Cubone
+Marowak
+Lickitung
+Rhyhorn
+Rhydon
+Kangaskhan
+Tauros
+Aerodactyl
+Snorlax
+Mew
+Meganium
+Typhlosion
+Totodile
+Croconaw
+Feraligatr
+Sudowoodo
+Politoed
+Wooper
+Quagsire
+Slowking
+Girafarig
+Steelix
+Shuckle
+Heracross
+Teddiursa
+Ursaring
+Magcargo
+Swinub
+Piloswine
+Corsola
+Phanpy
+Donphan
+Stantler
+Miltank
+Larvitar
+Pupitar
+Tyranitar
+Lugia
+Ho-Oh
+
+Via Breeding:
+NONE
+
+Via Special Event:
+Gligar

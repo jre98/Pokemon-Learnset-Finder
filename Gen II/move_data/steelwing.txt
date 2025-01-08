@@ -1,0 +1,45 @@
+Pokémon that can learn the move Steel Wing
+
+Via Level Up:
+Skarmory: Lv. 49 | Lv. 49
+
+Via TM:
+Charizard
+Pidgey
+Pidgeotto
+Pidgeot
+Spearow
+Fearow
+Zubat
+Golbat
+Farfetch'd
+Doduo
+Dodrio
+Scyther
+Aerodactyl
+Articuno
+Zapdos
+Moltres
+Dragonite
+Mew
+Hoothoot
+Noctowl
+Crobat
+Togetic
+Murkrow
+Scizor
+Skarmory
+Lugia
+Ho-Oh
+
+Via Breeding:
+Pidgey
+Pidgeotto
+Pidgeot
+Farfetch'd
+Aerodactyl
+Natu
+Xatu
+
+Via Special Event:
+NONE

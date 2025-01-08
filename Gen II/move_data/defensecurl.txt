@@ -1,0 +1,119 @@
+Pokémon that can learn the move Defense Curl
+
+Via Level Up:
+Sandshrew: Lv. 6 | Lv. 6
+Sandslash: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Clefairy: Lv. 26 | Lv. 26
+Jigglypuff: Lv. 4 | Lv. 4
+Wigglytuff: Lv. 1 | Lv. 1
+Geodude: Lv. 6 | Lv. 6
+Graveler: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Golem: Lv. 1, Lv. 6 | Lv. 1, Lv. 6
+Lickitung: Lv. 13 | Lv. 13
+Chansey: Lv. 41 | Lv. 41
+Snorlax: Lv. 15 | Lv. 15
+Sentret: Lv. 5 | Lv. 5
+Furret: Lv. 1, Lv. 5 | Lv. 1, Lv. 5
+Igglybuff: Lv. 4 | Lv. 4
+Marill: Lv. 3 | Lv. 3
+Azumarill: Lv. 1, Lv. 3 | Lv. 1, Lv. 3
+Dunsparce: Lv. 5 | Lv. 5
+Phanpy: Lv. 9 | Lv. 9
+Donphan: Lv. 9 | Lv. 9
+Porygon2: Lv. 24 | Lv. 24
+Miltank: Lv. 8 | Lv. 8
+Blissey: Lv. 33 | Lv. 33
+
+Via TM:
+Bulbasaur
+Ivysaur
+Venusaur
+Charmander
+Charmeleon
+Charizard
+Squirtle
+Wartortle
+Blastoise
+Rattata
+Raticate
+Pikachu
+Raichu
+Sandshrew
+Sandslash
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Meowth
+Persian
+Mankey
+Primeape
+Poliwag
+Poliwhirl
+Poliwrath
+Geodude
+Graveler
+Golem
+Lickitung
+Chansey
+Snorlax
+Mew
+Cyndaquil
+Quilava
+Typhlosion
+Sentret
+Furret
+Pichu
+Cleffa
+Igglybuff
+Togepi
+Togetic
+Mareep
+Flaaffy
+Ampharos
+Marill
+Azumarill
+Sudowoodo
+Politoed
+Hoppip
+Skiploom
+Jumpluff
+Aipom
+Misdreavus
+Pineco
+Forretress
+Dunsparce
+Steelix
+Snubbull
+Granbull
+Qwilfish
+Shuckle
+Heracross
+Sneasel
+Teddiursa
+Ursaring
+Slugma
+Magcargo
+Swinub
+Piloswine
+Corsola
+Remoraid
+Octillery
+Phanpy
+Donphan
+Porygon2
+Miltank
+Blissey
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

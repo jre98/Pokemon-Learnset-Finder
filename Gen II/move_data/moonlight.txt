@@ -1,0 +1,18 @@
+Pokémon that can learn the move Moonlight
+
+Via Level Up:
+Clefairy: Lv. 43 | Lv. 43
+Clefable: Lv. 1 | Lv. 1
+Oddish: Lv. 32 | Lv. 32
+Gloom: Lv. 35 | Lv. 35
+Umbreon: Lv. 52 | Lv. 52
+
+Via TM:
+NONE
+
+Via Breeding:
+Exeggcute
+Exeggutor
+
+Via Special Event:
+NONE

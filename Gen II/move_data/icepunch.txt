@@ -1,0 +1,73 @@
+Pokémon that can learn the move Ice Punch
+
+Via Level Up:
+Hitmonchan: Lv. 26 | Lv. 26
+Jynx: Lv. 25 | Lv. 25
+
+Via TM:
+Squirtle
+Wartortle
+Blastoise
+Nidoqueen
+Nidoking
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+Psyduck
+Golduck
+Mankey
+Primeape
+Poliwhirl
+Poliwrath
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Slowbro
+Grimer
+Muk
+Gengar
+Drowzee
+Hypno
+Hitmonchan
+Lickitung
+Kangaskhan
+Mr. Mime
+Jynx
+Electabuzz
+Snorlax
+Dragonite
+Mewtwo
+Mew
+Totodile
+Croconaw
+Feraligatr
+Sentret
+Furret
+Ledyba
+Ledian
+Marill
+Azumarill
+Sudowoodo
+Politoed
+Aipom
+Wooper
+Quagsire
+Slowking
+Snubbull
+Granbull
+Sneasel
+Teddiursa
+Ursaring
+Smoochum
+Elekid
+Miltank
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,17 @@
+Pokémon that can learn the move Psywave
+
+Via Level Up:
+Misdreavus: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Gastly
+Haunter
+Gengar
+Koffing
+Weezing
+
+Via Special Event:
+NONE

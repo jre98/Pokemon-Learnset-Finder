@@ -1,0 +1,20 @@
+Pokémon that can learn the move Karate Chop
+
+Via Level Up:
+Mankey: Lv. 15 | Lv. 15
+Primeape: Lv. 15 | Lv. 15
+Machop: Lv. 13 | Lv. 13
+Machoke: Lv. 15 | Lv. 15
+Machamp: Lv. 15 | Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+Electabuzz
+Magmar
+Elekid
+Magby
+
+Via Special Event:
+NONE

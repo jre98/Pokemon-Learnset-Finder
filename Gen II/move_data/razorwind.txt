@@ -1,0 +1,21 @@
+Pokémon that can learn the move Razor Wind
+
+Via Level Up:
+NONE
+
+Via TM:
+NONE
+
+Via Breeding:
+Bulbasaur
+Ivysaur
+Venusaur
+Scyther
+Totodile
+Croconaw
+Feraligatr
+Gligar
+Scizor
+
+Via Special Event:
+NONE

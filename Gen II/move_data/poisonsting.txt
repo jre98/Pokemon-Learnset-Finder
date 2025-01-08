@@ -1,0 +1,28 @@
+Pokémon that can learn the move Poison Sting
+
+Via Level Up:
+Weedle: Lv. 1 | Lv. 1
+Ekans: Lv. 9 | Lv. 9
+Arbok: Lv. 1, Lv. 9 | Lv. 1, Lv. 9
+Sandshrew: Lv. 17 | Lv. 17
+Sandslash: Lv. 17 | Lv. 17
+Nidoran♀: Lv. 17 | Lv. 17
+Nidorina: Lv. 19 | Lv. 19
+Nidoran♂: Lv. 17 | Lv. 17
+Nidorino: Lv. 19 | Lv. 19
+Nidoking: Lv. 1 | Lv. 1
+Tentacool: Lv. 1 | Lv. 1
+Tentacruel: Lv. 1 | Lv. 1
+Spinarak: Lv. 1 | Lv. 1
+Ariados: Lv. 1 | Lv. 1
+Gligar: Lv. 1 | Lv. 1
+Qwilfish: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

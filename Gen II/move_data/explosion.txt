@@ -1,0 +1,21 @@
+Pokémon that can learn the move Explosion
+
+Via Level Up:
+Geodude: Lv. 41 | Lv. 41
+Graveler: Lv. 48 | Lv. 48
+Golem: Lv. 48 | Lv. 48
+Voltorb: Lv. 39 | Lv. 39
+Electrode: Lv. 44 | Lv. 44
+Koffing: Lv. 41 | Lv. 41
+Weezing: Lv. 44 | Lv. 44
+Pineco: Lv. 36 | Lv. 36
+Forretress: Lv. 39 | Lv. 39
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

@@ -1,0 +1,23 @@
+Pokémon that can learn the move Wrap
+
+Via Level Up:
+Ekans: Lv. 1 | Lv. 1
+Arbok: Lv. 1 | Lv. 1
+Bellsprout: Lv. 11 | Lv. 11
+Weepinbell: Lv. 1, Lv. 11 | Lv. 1, Lv. 11
+Tentacool: Lv. 30 | Lv. 30
+Tentacruel: Lv. 30 | Lv. 30
+Lickitung: Lv. 25 | Lv. 25
+Dratini: Lv. 1 | Lv. 1
+Dragonair: Lv. 1 | Lv. 1
+Dragonite: Lv. 1 | Lv. 1
+Shuckle: Lv. 9 | Lv. 9
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

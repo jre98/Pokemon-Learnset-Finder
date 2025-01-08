@@ -1,0 +1,19 @@
+Pokémon that can learn the move Tri Attack
+
+Via Level Up:
+Dugtrio:  | Lv. 1
+Magneton:  | Lv. 35
+Doduo: Lv. 21 | Lv. 21
+Dodrio: Lv. 21 | Lv. 21
+Porygon: Lv. 36 | Lv. 36
+Porygon2: Lv. 36 | Lv. 36
+
+Via TM:
+NONE
+
+Via Breeding:
+Spearow
+Fearow
+
+Via Special Event:
+NONE

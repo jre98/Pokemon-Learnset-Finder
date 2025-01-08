@@ -1,0 +1,16 @@
+Pokémon that can learn the move String Shot
+
+Via Level Up:
+Caterpie: Lv. 1 | Lv. 1
+Weedle: Lv. 1 | Lv. 1
+Spinarak: Lv. 1 | Lv. 1
+Ariados: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

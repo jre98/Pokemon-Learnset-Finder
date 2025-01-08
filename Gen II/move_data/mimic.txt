@@ -1,0 +1,16 @@
+Pokémon that can learn the move Mimic
+
+Via Level Up:
+Sudowoodo: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Clefairy
+Clefable
+Mr. Mime
+Cleffa
+
+Via Special Event:
+NONE

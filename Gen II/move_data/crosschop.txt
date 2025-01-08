@@ -1,0 +1,20 @@
+Pokémon that can learn the move Cross Chop
+
+Via Level Up:
+Mankey: Lv. 39 | Lv. 39
+Primeape: Lv. 45 | Lv. 45
+Machop: Lv. 37 | Lv. 37
+Machoke: Lv. 43 | Lv. 43
+Machamp: Lv. 43 | Lv. 43
+
+Via TM:
+NONE
+
+Via Breeding:
+Electabuzz
+Magmar
+Elekid
+Magby
+
+Via Special Event:
+NONE

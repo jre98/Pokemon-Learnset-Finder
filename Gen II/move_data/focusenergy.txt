@@ -1,0 +1,43 @@
+Pokémon that can learn the move Focus Energy
+
+Via Level Up:
+Beedrill: Lv. 15 | Lv. 15
+Rattata: Lv. 20 | Lv. 20
+Nidoran♂: Lv. 23 | Lv. 23
+Nidorino: Lv. 27 | Lv. 27
+Mankey: Lv. 27 | Lv. 27
+Primeape: Lv. 27 | Lv. 27
+Machop: Lv. 7 | Lv. 7
+Machoke: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Machamp: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Cubone: Lv. 21 | Lv. 21
+Marowak: Lv. 21 | Lv. 21
+Hitmonlee: Lv. 21 | Lv. 21
+Scyther: Lv. 6 | Lv. 6
+Pinsir: Lv. 7 | Lv. 7
+Eevee: Lv. 36 | 
+Scizor: Lv. 6 | Lv. 6
+Remoraid: Lv. 33 | Lv. 33
+Octillery: Lv. 38 | Lv. 38
+Hitmontop: Lv. 7 | Lv. 7
+
+Via TM:
+NONE
+
+Via Breeding:
+Nidoran♀
+Nidorina
+Nidoqueen
+Kangaskhan
+Sentret
+Furret
+Teddiursa
+Ursaring
+Phanpy
+Donphan
+Larvitar
+Pupitar
+Tyranitar
+
+Via Special Event:
+NONE

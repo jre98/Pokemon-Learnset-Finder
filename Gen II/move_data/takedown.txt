@@ -1,0 +1,54 @@
+Pokémon that can learn the move Take Down
+
+Via Level Up:
+Growlithe: Lv. 26 | Lv. 26
+Arcanine: Lv. 1 | Lv. 1
+Ponyta: Lv. 34 | Lv. 34
+Rapidash: Lv. 34 | Lv. 34
+Seel: Lv. 32 | Lv. 32
+Dewgong: Lv. 32 | Lv. 32
+Rhyhorn: Lv. 49 | Lv. 49
+Rhydon: Lv. 54 | Lv. 54
+Tauros: Lv. 53 | Lv. 53
+Eevee: Lv. 42 | Lv. 42
+Aerodactyl: Lv. 43 | Lv. 43
+Hoothoot: Lv. 28 | Lv. 28
+Noctowl: Lv. 33 | Lv. 33
+Chinchou: Lv. 37 | Lv. 37
+Lanturn: Lv. 45 | Lv. 45
+Pineco: Lv. 15 | Lv. 15
+Forretress: Lv. 15 | Lv. 15
+Dunsparce: Lv. 38 | Lv. 38
+Snubbull: Lv. 43 | Lv. 43
+Granbull: Lv. 51 | Lv. 51
+Qwilfish: Lv. 37 | Lv. 37
+Heracross: Lv. 35 | Lv. 35
+Swinub: Lv. 28 | Lv. 28
+Piloswine: Lv. 28 | Lv. 28
+Mantine: Lv. 25 | Lv. 25
+Phanpy: Lv. 25 | Lv. 25
+Stantler: Lv. 40 | Lv. 40
+
+Via TM:
+NONE
+
+Via Breeding:
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Shellder
+Cloyster
+Mareep
+Flaaffy
+Ampharos
+Girafarig
+Teddiursa
+Ursaring
+Swinub
+Piloswine
+
+Via Special Event:
+NONE

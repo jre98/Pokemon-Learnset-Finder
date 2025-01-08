@@ -1,0 +1,45 @@
+Pokémon that can learn the move Faint Attack
+
+Via Level Up:
+Meowth: Lv. 28 | Lv. 28
+Persian: Lv. 29 | Lv. 29
+Sudowoodo: Lv. 37 | Lv. 37
+Umbreon: Lv. 36 | Lv. 36
+Murkrow: Lv. 31 | Lv. 31
+Gligar: Lv. 28 | Lv. 28
+Sneasel: Lv. 25 | Lv. 25
+Teddiursa: Lv. 22 | Lv. 22
+Ursaring: Lv. 22 | Lv. 22
+Houndour: Lv. 27 | Lv. 27
+Houndoom: Lv. 30 | Lv. 30
+
+Via TM:
+NONE
+
+Via Breeding:
+Pidgey
+Pidgeotto
+Pidgeot
+Spearow
+Fearow
+Vulpix
+Ninetales
+Jigglypuff
+Wigglytuff
+Zubat
+Golbat
+Diglett
+Dugtrio
+Doduo
+Dodrio
+Hoothoot
+Noctowl
+Crobat
+Igglybuff
+Natu
+Xatu
+Snubbull
+Granbull
+
+Via Special Event:
+NONE

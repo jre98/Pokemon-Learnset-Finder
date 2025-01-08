@@ -1,0 +1,17 @@
+Pokémon that can learn the move Heal Bell
+
+Via Level Up:
+Miltank: Lv. 53 | Lv. 53
+Celebi: Lv. 1 | Lv. 1
+
+Via TM:
+NONE
+
+Via Breeding:
+Chansey
+Snubbull
+Granbull
+Blissey
+
+Via Special Event:
+NONE

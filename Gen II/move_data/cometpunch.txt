@@ -1,0 +1,16 @@
+Pokémon that can learn the move Comet Punch
+
+Via Level Up:
+Hitmonchan: Lv. 1 | Lv. 1
+Kangaskhan: Lv. 1 | Lv. 1
+Ledyba: Lv. 15 | Lv. 15
+Ledian: Lv. 15 | Lv. 15
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

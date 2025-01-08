@@ -1,0 +1,31 @@
+Pokémon that can learn the move Beat Up
+
+Via Level Up:
+Sneasel: Lv. 57 | Lv. 57
+
+Via TM:
+NONE
+
+Via Breeding:
+Charmander
+Charmeleon
+Charizard
+Ekans
+Arbok
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Diglett
+Dugtrio
+Mankey
+Primeape
+Aipom
+Girafarig
+Houndour
+Houndoom
+
+Via Special Event:
+NONE

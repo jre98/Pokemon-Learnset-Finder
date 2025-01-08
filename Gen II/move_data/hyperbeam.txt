@@ -1,0 +1,141 @@
+Pokémon that can learn the move Hyper Beam
+
+Via Level Up:
+Gyarados: Lv. 50 | Lv. 50
+Aerodactyl: Lv. 50 | Lv. 50
+Snorlax: Lv. 57 | Lv. 57
+Dratini: Lv. 57 | Lv. 57
+Dragonair: Lv. 65 | Lv. 65
+Dragonite: Lv. 75 | Lv. 75
+Remoraid: Lv. 55 | Lv. 55
+Octillery: Lv. 70 | Lv. 70
+Larvitar: Lv. 57 | Lv. 57
+Pupitar: Lv. 65 | Lv. 65
+Tyranitar: Lv. 75 | Lv. 75
+
+Via TM:
+Venusaur
+Charizard
+Blastoise
+Butterfree
+Beedrill
+Pidgeot
+Raticate
+Fearow
+Arbok
+Raichu
+Sandslash
+Nidoqueen
+Nidoking
+Clefable
+Ninetales
+Wigglytuff
+Golbat
+Vileplume
+Parasect
+Venomoth
+Dugtrio
+Persian
+Golduck
+Primeape
+Arcanine
+Poliwrath
+Alakazam
+Machamp
+Victreebel
+Tentacruel
+Golem
+Rapidash
+Slowbro
+Magneton
+Dodrio
+Dewgong
+Muk
+Cloyster
+Gengar
+Hypno
+Kingler
+Electrode
+Exeggutor
+Marowak
+Lickitung
+Weezing
+Rhydon
+Chansey
+Tangela
+Kangaskhan
+Seaking
+Starmie
+Mr. Mime
+Jynx
+Electabuzz
+Magmar
+Pinsir
+Tauros
+Gyarados
+Lapras
+Vaporeon
+Jolteon
+Flareon
+Porygon
+Omastar
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dragonite
+Mewtwo
+Mew
+Meganium
+Typhlosion
+Feraligatr
+Furret
+Noctowl
+Ariados
+Crobat
+Lanturn
+Togetic
+Xatu
+Ampharos
+Bellossom
+Azumarill
+Sudowoodo
+Politoed
+Jumpluff
+Sunflora
+Quagsire
+Espeon
+Umbreon
+Slowking
+Forretress
+Steelix
+Granbull
+Scizor
+Ursaring
+Magcargo
+Piloswine
+Octillery
+Mantine
+Skarmory
+Houndoom
+Kingdra
+Donphan
+Porygon2
+Hitmontop
+Miltank
+Blissey
+Raikou
+Entei
+Suicune
+Tyranitar
+Lugia
+Ho-Oh
+Celebi
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

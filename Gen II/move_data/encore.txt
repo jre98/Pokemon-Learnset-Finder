@@ -1,0 +1,34 @@
+Pokémon that can learn the move Encore
+
+Via Level Up:
+Clefairy: Lv. 4 | Lv. 4
+Mr. Mime: Lv. 31 | Lv. 31
+Cleffa: Lv. 4 | Lv. 4
+Togepi: Lv. 25 | Lv. 25
+Togetic: Lv. 25 | Lv. 25
+Shuckle: Lv. 14 | Lv. 14
+
+Via TM:
+NONE
+
+Via Breeding:
+Pikachu
+Raichu
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Bellsprout
+Weepinbell
+Victreebel
+Seel
+Dewgong
+Pichu
+Hoppip
+Skiploom
+Jumpluff
+
+Via Special Event:
+NONE

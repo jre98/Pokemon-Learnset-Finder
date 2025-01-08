@@ -1,0 +1,25 @@
+Pokémon that can learn the move Razor Leaf
+
+Via Level Up:
+Bulbasaur: Lv. 20 | Lv. 20
+Ivysaur: Lv. 22 | Lv. 22
+Venusaur: Lv. 22 | Lv. 22
+Bellsprout: Lv. 37 | Lv. 37
+Weepinbell: Lv. 42 | Lv. 42
+Victreebel: Lv. 1 | Lv. 1
+Chikorita: Lv. 8 | Lv. 8
+Bayleef: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Meganium: Lv. 1, Lv. 8 | Lv. 1, Lv. 8
+Sunflora: Lv. 10 | Lv. 10
+
+Via TM:
+NONE
+
+Via Breeding:
+Oddish
+Gloom
+Vileplume
+Bellossom
+
+Via Special Event:
+NONE

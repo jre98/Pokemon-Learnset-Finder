@@ -1,0 +1,19 @@
+Pokémon that can learn the move Petal Dance
+
+Via Level Up:
+Oddish: Lv. 39 | Lv. 39
+Gloom: Lv. 44 | Lv. 44
+Vileplume: Lv. 1 | Lv. 1
+Bellossom: Lv. 1 | Lv. 1
+Sunflora: Lv. 31 | Lv. 31
+
+Via TM:
+NONE
+
+Via Breeding:
+Bulbasaur
+Ivysaur
+Venusaur
+
+Via Special Event:
+NONE

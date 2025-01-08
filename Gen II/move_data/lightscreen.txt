@@ -1,0 +1,55 @@
+Pokémon that can learn the move Light Screen
+
+Via Level Up:
+Pikachu: Lv. 50 | Lv. 50
+Clefairy: Lv. 53 | Lv. 53
+Voltorb: Lv. 33 | Lv. 33
+Electrode: Lv. 34 | Lv. 34
+Chansey: Lv. 49 | Lv. 49
+Staryu: Lv. 43 | Lv. 43
+Mr. Mime: Lv. 26 | Lv. 26
+Electabuzz: Lv. 17 | Lv. 17
+Zapdos: Lv. 61 | Lv. 61
+Chikorita: Lv. 36 | Lv. 36
+Bayleef: Lv. 39 | Lv. 39
+Meganium: Lv. 41 | Lv. 41
+Ledyba: Lv. 22 | Lv. 22
+Ledian: Lv. 24 | Lv. 24
+Mareep: Lv. 30 | Lv. 30
+Flaaffy: Lv. 36 | Lv. 36
+Ampharos: Lv. 42 | Lv. 42
+Elekid: Lv. 17 | Lv. 17
+Blissey: Lv. 40 | Lv. 40
+
+Via TM:
+NONE
+
+Via Breeding:
+Bulbasaur
+Ivysaur
+Venusaur
+Paras
+Parasect
+Psyduck
+Golduck
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Drowzee
+Hypno
+Scyther
+Dratini
+Dragonair
+Dragonite
+Ledyba
+Ledian
+Marill
+Azumarill
+Scizor
+Stantler
+
+Via Special Event:
+NONE

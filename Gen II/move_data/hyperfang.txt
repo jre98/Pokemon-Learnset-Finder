@@ -1,0 +1,14 @@
+Pokémon that can learn the move Hyper Fang
+
+Via Level Up:
+Rattata: Lv. 13 | Lv. 13
+Raticate: Lv. 13 | Lv. 13
+
+Via TM:
+NONE
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE

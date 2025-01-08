@@ -1,0 +1,31 @@
+Pokémon that can learn the move DragonBreath
+
+Via Level Up:
+NONE
+
+Via TM:
+Charmander
+Charmeleon
+Charizard
+Growlithe
+Arcanine
+Horsea
+Seadra
+Gyarados
+Lapras
+Aerodactyl
+Dratini
+Dragonair
+Dragonite
+Mew
+Steelix
+Kingdra
+Tyranitar
+Lugia
+Ho-Oh
+
+Via Breeding:
+NONE
+
+Via Special Event:
+NONE
