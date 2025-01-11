@@ -3,7 +3,7 @@ Pokémon that can learn the move Flash
 Via Level Up:
 NONE
 
-Via HM:
+Via TM:
 Bulbasaur
 Ivysaur
 Venusaur

@@ -3,7 +3,7 @@ Pokémon that can learn the move Fly
 Via Level Up:
 NONE
 
-Via HM:
+Via TM:
 Charizard
 Pidgey
 Pidgeotto

@@ -3,7 +3,7 @@ Pokémon that can learn the move Surf
 Via Level Up:
 NONE
 
-Via HM:
+Via TM:
 Squirtle
 Wartortle
 Blastoise

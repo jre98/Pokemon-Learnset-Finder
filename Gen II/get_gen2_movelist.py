@@ -3,6 +3,7 @@
 
 import requests # type: ignore
 from bs4 import BeautifulSoup # type: ignore
+import json
 
 # Store in a function so it can be called from the main file
 def get_moves():
@@ -49,6 +50,22 @@ def get_moves():
     return move_dict
 
 
+# This part of the code creates a json file with the list of all moves (this is used
+# by the Javascript function for autocomplete/typeahead)
+
+all_moves = get_moves()
+# Extract only the formatted move names (values)
+moves_list = list(all_moves.values())
+
+# Path to save the JSON file
+
+json_file_path = "/Users/jacob/Desktop/Pokemon-Learnset-Finder/webapp/movelist.json"
+
+# Writing the moves list to a JSON file
+with open(json_file_path, 'w') as json_file:
+    json.dump(moves_list, json_file, indent=4)
+
+print(f"Movelist saved to {json_file_path}")
 
 
 

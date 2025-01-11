@@ -90,13 +90,16 @@ for move in all_moves:
         with open(file_path, "a") as file:
             # If there was TM data found, write it to the file
             if TM_data:
+                file.write("\n\nVia TM:\n")
+                file.write("\n".join(TM_data)) 
                 # This handles the case where the selected move is an HM
-                if(move in HM_moves):
-                    file.write("\n\nVia HM:\n")
-                    file.write("\n".join(TM_data))
-                else:
-                    file.write("\n\nVia TM:\n")
-                    file.write("\n".join(TM_data)) 
+                # if(move in HM_moves):
+                #     file.write("\n\nVia HM:\n")
+                #     file.write("\n".join(TM_data))
+                # else:
+                #     file.write("\n\nVia TM:\n")
+                #     file.write("\n".join(TM_data)) 
+
 
     # If there was no data found, write NONE to the file to indicate it        
     else:
