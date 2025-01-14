@@ -15,7 +15,7 @@ fetch("movelist.json")
     .catch(error => console.error("Error loading move names:", error));
 
 // Pull the move data from the other json file
-fetch("move_data.json")
+fetch("movedata_namesonly.json")
     .then(response => response.json())
     .then(data =>{
         move_data = data
@@ -87,89 +87,64 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
+
+
 // Function to handle the form submission
 document.getElementById("move-form").addEventListener("submit", (event) => {
-    // Prevent form from reloading page upon submission
-    event.preventDefault(); // Prevent the form from reloading the page
-  
+    // Prevent form from reloading the page upon submission
+    event.preventDefault();
+
     const move1 = document.getElementById("move1").value;
     const move2 = document.getElementById("move2").value;
     const move3 = document.getElementById("move3").value;
     const move4 = document.getElementById("move4").value;
-  
+
     const moves = [move1, move2, move3, move4].filter(Boolean); // Remove empty inputs
-  
+
     if (moves.length === 0) {
-      alert("Please enter at least one move.");
-      return;
+        alert("Please enter at least one move.");
+        return;
     }
 
-    // console.log(move1)
-  
     // Find Pokémon that can learn the moves
     const results = findCommonPokemon(moves);
-  
+
     // Display the results
     const resultsDiv = document.getElementById("results");
     if (results.length > 0) {
-      resultsDiv.innerHTML = results
-        .map(
-          (pokemon) =>
-            `<p>${pokemon.name}: ${pokemon.methods
-              .map(
-                (method) => `<strong>${method.type}</strong>: ${method.details.join(", ")}`
-              )
-              .join(" | ")}</p>`
-        )
-        .join("");
+        resultsDiv.innerHTML = results
+            .map((pokemon) => `<p>${pokemon}</p>`)
+            .join("");
     } else {
-      resultsDiv.innerHTML = "No Pokémon found that can learn all the selected moves.";
+        resultsDiv.innerHTML = "No Pokémon found that can learn all the selected moves.";
     }
-  });
+});
 
-
-
-  // Function to find Pokémon that can learn the given moves
+// Function that will find the common Pokemon across all the moves enetered by the user
 function findCommonPokemon(moves) {
-    const pokemonMap = new Map();
-  
-    // Loop through each move from the moves array (which stores the moves the user inputted)
+    // Use a map to track Pokémon counts across all selected moves
+    const pokemonCountMap = new Map();
+
     moves.forEach((move) => {
-      // Retrieve the data for the current move from the json file
-      const moveInfo = move_data[move];
-      // Skip if move is not found in JSON
-      if (!moveInfo) return; 
-
-      // Create array of key-value pairs for the move data. "method" stores the way in which
-      // the move is learned (Level Up, TM, Breeding, Special Event). "mons" store a list of
-      // Pokemon (in the case of TM or breeding) or a nested object (for level up)
-      Object.entries(moveInfo).forEach(([method, mons]) => {
-
-        // Next, need to handle the different learning methods. First, TMs and breeding
-        if (Array.isArray(mons)) {
-          // Handle breeding and TM cases
-          mons.forEach((pokemon) => {
-            if (!pokemonMap.has(pokemon)) {
-              pokemonMap.set(pokemon, []);
-            }
-            pokemonMap.get(pokemon).push({ type: method, details: [] });
-          });
-        } else {
-          // Handle level-up cases, which is a nested object, as we have the Pokemon name as
-          // well as the level they learn the move at
-          Object.entries(mons).forEach(([pokemon, details]) => {
-            if (!pokemonMap.has(pokemon)) {
-              pokemonMap.set(pokemon, []);
-            }
-            pokemonMap.get(pokemon).push({ type: method, details });
-          });
+        const pokemonList = move_data[move]; // Get the Pokémon list for the move
+        if (!pokemonList) {
+            console.warn(`Move "${move}" not found in data.`);
+            return;
         }
-      });
+
+        pokemonList.forEach((pokemon) => {
+            if (!pokemonCountMap.has(pokemon)) {
+                pokemonCountMap.set(pokemon, 0);
+            }
+            // Increment the count for this Pokémon
+            pokemonCountMap.set(pokemon, pokemonCountMap.get(pokemon) + 1);
+        });
     });
-  
-    // Find Pokémon that appear in all move lists
-    return Array.from(pokemonMap.entries())
-      .filter(([_, methods]) => methods.length === moves.length)
-      .map(([name, methods]) => ({ name, methods }));
-  }
-// Function to search for Pokemon that can learn the inputted set of moves
+
+    // Filter Pokémon that appear for all selected moves
+    return Array.from(pokemonCountMap.entries())
+        .filter(([_, count]) => count === moves.length)
+        .map(([name]) => name);
+}
+
+
