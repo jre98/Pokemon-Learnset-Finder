@@ -9,15 +9,14 @@ fetch("movelist.json")
     .then(response => response.json())
     .then(data => {
         // Store in the list for access
-        move_list = data;  
+        move_list = data;
     })
     // Catch errors when pulling .json file
     .catch(error => console.error("Error loading move names:", error));
 
 // Pull the move data from the other json file
 fetch("movedata_namesonly.json")
-    .then(response => response.json())
-    .then(data =>{
+    .then(response => response.json()).then(data => {
         move_data = data
     })
     // Catch error when pulling from .json file
@@ -27,13 +26,13 @@ fetch("movedata_namesonly.json")
 document.addEventListener("DOMContentLoaded", () => {
     // Select all input fields with the 'move-input' class - these represent each input field for moves
     // Allows for iteration through each "move-input" element
-    const moveInputs = document.querySelectorAll(".move-input"); 
+    const moveInputs = document.querySelectorAll(".move-input");
 
     // Loop through each input field
     moveInputs.forEach(inputField => {
         // Select the <div> immediately following the current inputField (the div following the inputField will
         // always be the suggestions div)
-        const suggestionsBox = inputField.nextElementSibling; 
+        const suggestionsBox = inputField.nextElementSibling;
 
         // Listen for user input of typing in the text box, triggers function when user types in box
         inputField.addEventListener("input", () => {
@@ -70,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     // If the user selects a move from the list, clear the suggestions dropdown
                     suggestionsBox.innerHTML = "";
                 });
-                
+
                 // Once the suggestionItem <div> is complete, add it to the suggestionsBox so that
                 // the suggestions are displayed
                 suggestionsBox.appendChild(suggestionItem);
@@ -94,22 +93,26 @@ document.getElementById("move-form").addEventListener("submit", (event) => {
     // Prevent form from reloading the page upon submission
     event.preventDefault();
 
+    // Store each inputted move in a variable
     const move1 = document.getElementById("move1").value;
     const move2 = document.getElementById("move2").value;
     const move3 = document.getElementById("move3").value;
     const move4 = document.getElementById("move4").value;
 
-    const moves = [move1, move2, move3, move4].filter(Boolean); // Remove empty inputs
+    // Put moves in array and remove any empty inputs with .filter(Boolean)
+    const moves = [move1, move2, move3, move4].filter(Boolean); 
 
+    // If the length of the moves array is 0, then this means the user did not enter 
+    // a move. In this case, prompt them to enter at least one move
     if (moves.length === 0) {
         alert("Please enter at least one move.");
         return;
     }
 
-    // Find Pokémon that can learn the moves
+    // Find Pokémon that can learn the moves using helper function
     const results = findCommonPokemon(moves);
 
-    // Display the results
+    // Display the results by creating a new <div>
     const resultsDiv = document.getElementById("results");
     if (results.length > 0) {
         resultsDiv.innerHTML = results
@@ -125,26 +128,39 @@ function findCommonPokemon(moves) {
     // Use a map to track Pokémon counts across all selected moves
     const pokemonCountMap = new Map();
 
+    // Loop through each move in the moves array
     moves.forEach((move) => {
-        const pokemonList = move_data[move]; // Get the Pokémon list for the move
+        // Get the list of Pokemon that can learn the current move
+        const pokemonList = move_data[move]; 
+        // Handle errors where a move was not found
         if (!pokemonList) {
             console.warn(`Move "${move}" not found in data.`);
             return;
         }
 
+        // Then, for each Pokemon that was found, add it to the Map structure
         pokemonList.forEach((pokemon) => {
+            // If the Pokemon name was not yet in the map, add it and set the count to 0
             if (!pokemonCountMap.has(pokemon)) {
                 pokemonCountMap.set(pokemon, 0);
             }
-            // Increment the count for this Pokémon
+            // If the Pokemon name is already in the Map, increment the count for that Pokemon
             pokemonCountMap.set(pokemon, pokemonCountMap.get(pokemon) + 1);
         });
     });
 
-    // Filter Pokémon that appear for all selected moves
-    return Array.from(pokemonCountMap.entries())
+    // Filter Pokémon that appear for all selected moves (stored in an array for testing validation)
+    let found_mons = Array.from(pokemonCountMap.entries())
+        // This portion filters out results where the "count" for a Pokemon in the map is not equal to
+        // the length of the "moves" array. That is, only include in the results Pokemon that can
+        // learn the moves inputted by the user
         .filter(([_, count]) => count === moves.length)
+        // Extract only the Pokemon names
         .map(([name]) => name);
+
+    // Return the filtered array so we can use it to display the results
+    return found_mons;
+
 }
 
 

@@ -11,6 +11,11 @@ h1 {
     align-items: start;
 }
 
+h3 {
+    color: midnightblue;
+    align-items: start;
+}
+
 form {
     margin: 20px 0;
 }
